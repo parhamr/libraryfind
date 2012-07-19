@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activesupport/lib/active_support/core_ext/float
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+time.rb
+file
+
+
+
+
+2009-06-25T15:28:30.000000Z
+859d6782ddf091b2738e4f839de7e0d8
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+rounding.rb
+file
+
+
+
+
+2009-06-25T15:28:30.000000Z
+aa7c4ac255e40b7ec6b9bb15c560ce9f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

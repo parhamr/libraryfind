@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/wcapi-0.0.1
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test.rb
+file
+
+
+
+
+2009-06-25T15:42:43.000000Z
+86ae740681021a3da404468773a70fed
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+lib
+dir
+
+.specification
+file
+
+
+
+
+2009-06-25T15:42:44.000000Z
+690a15edabcbce165363428198f2df2b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test
+END
+gencov
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/gencov
+END
+container_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/container_test.rb
+END
+struct_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/struct_test.rb
+END
+casting_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/casting_test.rb
+END
+test_invoke_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/test_invoke_test.rb
+END
+scaffolded_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/scaffolded_controller_test.rb
+END
+client_soap_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/client_soap_test.rb
+END
+abstract_client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/abstract_client.rb
+END
+abstract_unit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/abstract_unit.rb
+END
+client_xmlrpc_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/client_xmlrpc_test.rb
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/run
+END
+dispatcher_action_controller_soap_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/dispatcher_action_controller_soap_test.rb
+END
+api_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/api_test.rb
+END
+invocation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/invocation_test.rb
+END
+abstract_dispatcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/abstract_dispatcher.rb
+END
+base_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/base_test.rb
+END
+dispatcher_action_controller_xmlrpc_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/dispatcher_action_controller_xmlrpc_test.rb
+END

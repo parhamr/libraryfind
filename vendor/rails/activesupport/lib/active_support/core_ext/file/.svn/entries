@@ -1,0 +1,40 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activesupport/lib/active_support/core_ext/file
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+atomic.rb
+file
+
+
+
+
+2009-06-25T15:28:17.000000Z
+f66083d6a3c573a8674f3c1be5b86f19
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

@@ -1,0 +1,158 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/json-1.1.3
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+RUBY
+file
+
+
+
+
+2009-06-25T15:42:28.000000Z
+68d59ff8306e3a9f5f1c01462c77a317
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+GPL
+file
+
+
+
+
+2009-06-25T15:42:29.000000Z
+393a5ca445f6965873eca0259a17f833
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:42:28.000000Z
+e58f1d251ccb07723de513b7e7946c8f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+VERSION
+file
+
+
+
+
+2009-06-25T15:42:29.000000Z
+43cb29c66d0fd6194738cc0fb51afb22
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+README
+file
+
+
+
+
+2009-06-25T15:42:29.000000Z
+6e694e85532d6ae80c0c5abe61f5cf93
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+.specification
+file
+
+
+
+
+2009-06-25T15:42:29.000000Z
+159afa8bb62e2d13274d5627a7de5588
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+ext
+dir
+
+tools
+dir
+
+tests
+dir
+
+TODO
+file
+
+
+
+
+2009-06-25T15:42:29.000000Z
+68b329da9893e34099c7d8ad5cb9c940
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+lib
+dir
+
+install.rb
+file
+
+
+
+
+2009-06-25T15:42:29.000000Z
+7c106931df6edd2958d20b63ae243ea1
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+bin
+dir
+
+CHANGES
+file
+
+
+
+
+2009-06-25T15:42:30.000000Z
+c78c1499eb45f5f2c6da27bcd68cfb20
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+data
+dir
+
+benchmarks
+dir
+

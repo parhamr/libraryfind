@@ -1,0 +1,21 @@
+<div id="page_contents">
+<%= render(:partial => "admin/navigation")%>
+<div id="center"  class="column">
+<h2><%=translate('COLLECTION_HEADER')%></h2>
+<div id="edit_form">
+	<% for column in Collection.content_columns %>
+	<div id="form_field">
+  	  <span class="form_left">
+  	    <label for="<%=column.name %>"><%= column.human_name%>:</label>
+	  </span>
+	  <span class="form_right">
+		<%=h @collection.send(column.name)%>
+	  </span>
+	</div>
+  <% end %>
+
+<%= link_to translate('EDIT'), :action => 'edit', :id => @collection %> 
+
+</div>
+</div>
+</div>

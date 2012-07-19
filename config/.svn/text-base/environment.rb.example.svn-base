@@ -1,0 +1,217 @@
+# $Id$
+
+# Be sure to restart your web server when you modify this file.
+
+# Uncomment below to force Rails into production mode when 
+# you don't control web/app server and can't set it the proper way
+# ENV['RAILS_ENV'] ||= 'production'
+
+# Specifies gem version of Rails to use when vendor/rails is not present
+RAILS_GEM_VERSION = '1.2.3'
+
+# Bootstrap the Rails environment, frameworks, and default configuration
+require File.join(File.dirname(__FILE__), 'boot')
+
+Rails::Initializer.run do |config|
+  # Settings in config/environments/* take precedence those specified here
+  
+  # Skip frameworks you're not going to use
+  # config.frameworks -= [ :action_web_service, :action_mailer ]
+
+  # Add additional load paths for your own custom dirs
+  # config.load_paths += %W( #{RAILS_ROOT}/extras )
+
+  # Force all environments to use the same logger level 
+  # (by default production uses :info, the others :debug)
+  # config.log_level = :debug
+
+  # Use the database for sessions instead of the file system
+  # (create the session table with 'rake db:sessions:create')
+  #config.action_controller.session_store = :active_record_store
+  # Uncomment this line to enable memcache support
+  #config.action_controller.session_store = :mem_cache_store
+
+  # Use SQL instead of Active Record's schema dumper when creating the test database.
+  # This is necessary if your schema can't be completely dumped by the schema dumper, 
+  # like if you have constraints or database-specific column types
+  #config.active_record.schema_format = :sql
+
+  # Activate observers that should always be running
+  # config.active_record.observers = :cacher, :garbage_collector
+
+  # Make Active Record use UTC-base instead of local time
+  # config.active_record.default_timezone = :utc
+  
+  # See Rails::Configuration for more options
+end
+
+# Must be set due to the spawning
+ActiveRecord::Base.allow_concurrency  = true
+ActiveRecord::Base.verification_timeout  = 590
+
+#===============================================
+# Enables SQL session to be used as the 
+# sessioning engine.
+#=============================================== 
+require 'sql_session_store'
+require 'mysql_session'
+ActionController::CgiRequest::DEFAULT_SESSION_OPTIONS.
+    update(:database_manager => SqlSessionStore)
+SqlSessionStore.session_class = MysqlSession
+
+# Add new inflection rules using the following format 
+# (all these examples are active by default):
+# Inflector.inflections do |inflect|
+#   inflect.plural /^(ox)$/i, '\1en'
+#   inflect.singular /^(ox)en/i, '\1'
+#   inflect.irregular 'person', 'people'
+#   inflect.uncountable %w( fish sheep )
+# end
+
+# Include your application configuration below
+
+#========================================================================
+# Create some text based constants
+#========================================================================
+LIBRARYFIND_LOCAL = 1
+LIBRARYFIND_WSDL_ENGINE = 0
+LIBRARYFIND_SFX = 2
+
+
+#========================================================================
+# LIBRARYFIND_BASEURL: Sets the base url
+#    Description:  This is used to set the Proxy info
+#========================================================================
+LIBRARYFIND_BASEURL = 'http://yourserver.edu/'
+
+#========================================================================
+# LIBRARYFIND_PROCESS_TIMEOUT: Sets timeout property for connections that
+# require it
+#========================================================================
+LIBRARYFIND_PROCESS_TIMEOUT = 30
+
+#========================================================================
+# LIBRARYFIND_PROXY_TYPE: Sets the proxy type
+#     which is used for determining proxy styles.
+#     value:
+#          WAM -- III's proxy setup
+#          EZPROXY -- EZPROXY's proxy url setup
+#          NONE -- No proxy
+#========================================================================
+LIBRARYFIND_PROXY_TYPE = "WAM"
+
+#========================================================================
+# LIBRARYFIND_PROXY_ADDRESS: Sets proxy address for use when writing
+#     WAM or Ezproxy URLS
+#     Description: Used for generating proxy info
+#========================================================================
+LIBRARYFIND_PROXY_ADDRESS = '.oasis.oregonstate.edu'
+
+#========================================================================
+# LIBRARYFIND_USE_PROXY: Uses proxy generation
+#   Value: true, false
+#========================================================================
+LIBRARYFIND_USE_PROXY = true
+
+
+#========================================================================
+# LIBRARYFIND_IS_SERVER: Denotes if application is a wsdl producer
+#   Values: true -- Does serve WSDL
+# 	    false -- Does not server WSDL
+#========================================================================
+LIBRARYFIND_IS_SERVER = true
+
+#=========================================================================
+# LIBRARYFIND_WSDL:  Denotes if search is done locally or through a WSDL
+#                    interface
+#
+#Enum for LIBRARYFIND_WSDL
+# LIBRARYFIND_WSDL_ENGINE
+# LIBRARYFIND_LOCAL
+#==========================================================================
+LIBRARYFIND_WSDL = LIBRARYFIND_LOCAL
+
+#=========================================================================
+# LIBRARYFIND_WSDL_HOST:  The WSDL-hosting remote server to query
+#   Example:
+#   LIBRARYFIND_WSDL_HOST = "http://libfind-dev.library.oregonstate.edu/query/wsdl"
+#=========================================================================
+LIBRARYFIND_WSDL_HOST = "http://MY-WSDL-HOST/query/wsdl"
+
+
+#===========================================================================
+# LIBRARYFIND_OPENURL_TYPE: Denotes look ahead options.  Current options
+#                           available: LIBRARYFIND_LOCAL or LIBRARYFIND_SFX
+# Enum for LIBRARYFIND_OPENURL_TYPE
+#  LIBRARYFIND_LOCAL
+#  LIBRARYFIND_SFX
+#===========================================================================
+LIBRARYFIND_OPENURL_TYPE = LIBRARYFIND_LOCAL
+
+#=========================================================================
+# LIBRARYFIND_OPENURL:  (Optional) Local OpenURL resolution server to query
+#   Example:
+#   LIBRARYFIND_OPENURL = 'http://osulibrary.oregonstate.edu/digitalcollections/openurl/?'
+#   Note -- include the trailing question mark with this value -- if it 
+#   doesn't appear, the code will add it for you, but its just easier
+#   if its already here to begin with.
+#=========================================================================
+#LIBRARYFIND_OPENURL = 'http://MY-OPENURL-HOST/?'
+
+
+#=========================================================================
+# CROSSREF_ID:  (Required if using LIBRARYFIND_OPENURL)  Free DOI resolution
+#			    service; necessary for OpenURL resolution, see
+#				http://crossref.org for details			  
+#	Example:
+#   CROSSREF_ID = "myedu:myedu123"
+#=========================================================================
+#CROSSREF_ID = ''
+
+#=========================================================================
+# DOI_SERVLET:  (Required if using LIBRARYFIND_OPENURL)  URL to DOI resolution
+#			    service
+#   Example:
+#   DOI_SERVLET = "http://doi.crossref.org/servlet/query?id={@DOI}&pid=" + CROSSREF_ID
+#=========================================================================
+DOI_SERVLET = "http://doi.crossref.org/servlet/query?id={@DOI}&pid=" + CROSSREF_ID
+
+
+#=========================================================================
+# LIBRARYFIND_EMAIL_USER:  Email address from which LibraryFind mail will
+#						   be sent (e.g. for emailing selected search results) 
+#   Example:
+#   LIBRARYFIND_EMAIL_USER = 'LFadmin@myuniversity.edu'
+#=========================================================================
+LIBRARYFIND_EMAIL_USER = 'nobody@example.com'
+
+
+require 'yaml'
+
+yp = YAML::load_file(RAILS_ROOT + "/config/config.yml") 
+# Note: LIBRARYFIND_FERRET_PATH is defined in LF_ROOT/config/config.yml
+LIBRARYFIND_FERRET_PATH = yp['LIBRARYFIND_FERRET_PATH']
+
+# Note: PARSER_TYPE is defined in LF_ROOT/config/config.yml
+PARSER_TYPE = yp['PARSER_TYPE']
+
+# Extract the ILL Link Associated with LibraryFind
+LIBRARYFIND_ILL = yp['ILL_URL']
+
+# LibraryThing Developer API -- only uncomment if defined.
+#LIBRARYTHING_DEVKEY = yp['LIBRARYTHING_DEVKEY']
+OPENLIBRARY_COVERS = yp['OPENLIBRARY_COVERS']
+
+
+LIBRARYFIND_CACHE_OK = 0
+LIBRARYFIND_CACHE_EMPTY = 1
+LIBRARYFIND_CACHE_ERROR = 2
+
+#=================================================
+# Uncomment these lines to enable memcache support
+# for session management.
+#=================================================
+#CACHE = MemCache.new 'localhost:11211', :namespace => 'your_cache_memcache_dev'
+#ActionController::Base.session_options[:cache] = CACHE
+
+

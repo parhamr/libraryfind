@@ -1,0 +1,76 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/oai-0.0.13
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:41:41.000000Z
+e940409249a9c6063eea4e0a86fffff0
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+lib
+dir
+
+bin
+dir
+
+README
+file
+
+
+
+
+2009-06-25T15:41:42.000000Z
+f4a5908d62185b0a09dcc7b4c45e0108
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+examples
+dir
+
+.specification
+file
+
+
+
+
+2009-06-25T15:41:42.000000Z
+e52d203a2ed16539a3635c414c5fd758
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

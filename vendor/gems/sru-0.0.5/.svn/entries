@@ -1,0 +1,46 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/sru-0.0.5
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+lib
+dir
+
+.specification
+file
+
+
+
+
+2009-06-25T15:42:37.000000Z
+6cb975665e3b13a71bfb3abacc2dda87
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

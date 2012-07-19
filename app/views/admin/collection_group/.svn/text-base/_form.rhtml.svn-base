@@ -1,0 +1,31 @@
+<div id="error"><%= error_messages_for 'collection_group' %></div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_group_name"><%=translate("NAME_LABEL")%></label><br/>
+    <small><%=translate("NAME_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :name %><br/>
+    <small><%=translate("NAME_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_group_name"><%=translate("FULL_NAME_LABEL")%></label><br/>
+    <small><%=translate("FULL_NAME_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :full_name %><br/>
+    <small><%=translate("FULL_NAME_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_group_name"><%=translate("DESCRIPTION_LABEL")%></label><br/>
+    <small><%=translate("GROUP_DESC_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+      <%= form.text_area :description, :rows=>3 %><br/>
+    <small><%=translate("GROUP_DESC_EXAMPLE")%></small>
+  </span>
+</div>

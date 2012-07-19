@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data
+END
+_partial.rsel
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/_partial.rsel
+END
+own_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/own_layout.html
+END
+selenese.sel
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/selenese.sel
+END
+html.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/html.html
+END
+rselenese.rsel
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/rselenese.rsel
+END
+rhtml.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/rhtml.rhtml
+END

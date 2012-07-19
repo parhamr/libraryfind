@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/json-1.1.3/lib/json/add
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+core.rb
+file
+
+
+
+
+2009-06-25T15:42:14.000000Z
+c615759f49c80eb08c7d39a75c34f994
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+rails.rb
+file
+
+
+
+
+2009-06-25T15:42:14.000000Z
+799dedf1764e71cec70c5ce390dd9611
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

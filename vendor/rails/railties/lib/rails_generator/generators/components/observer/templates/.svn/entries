@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties/lib/rails_generator/generators/components/observer/templates
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+unit_test.rb
+file
+
+
+
+
+2009-06-25T15:38:07.000000Z
+101be3362a85ae6922eeb1d0ec67fefd
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+observer.rb
+file
+
+
+
+
+2009-06-25T15:38:07.000000Z
+4c895d9eb68003006e79b6e5e7619b37
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

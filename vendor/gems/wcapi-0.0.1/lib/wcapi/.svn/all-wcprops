@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/client.rb
+END
+record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/record.rb
+END
+open_search_response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/open_search_response.rb
+END
+xpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/xpath.rb
+END
+get_location_response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/get_location_response.rb
+END
+get_record_response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/get_record_response.rb
+END
+sru_search_response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/wcapi-0.0.1/lib/wcapi/sru_search_response.rb
+END

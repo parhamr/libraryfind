@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/fixtures/db_definitions
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/fixtures/db_definitions/mysql.sql
+END

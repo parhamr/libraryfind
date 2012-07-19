@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionmailer/test/fixtures/layouts
+END
+auto_layout_mailer.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionmailer/test/fixtures/layouts/auto_layout_mailer.html.erb
+END
+spam.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionmailer/test/fixtures/layouts/spam.html.erb
+END

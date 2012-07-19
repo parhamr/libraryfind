@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client
+END
+tc_libxml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_libxml.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/test_helper.rb
+END
+tc_list_sets.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_list_sets.rb
+END
+tc_identify.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_identify.rb
+END
+tc_list_records.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_list_records.rb
+END
+tc_get_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_get_record.rb
+END
+tc_exception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_exception.rb
+END
+tc_utf8_escaping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_utf8_escaping.rb
+END
+tc_list_identifiers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_list_identifiers.rb
+END
+tc_low_resolution_dates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_low_resolution_dates.rb
+END
+tc_xpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_xpath.rb
+END
+tc_list_metadata_formats.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/tc_list_metadata_formats.rb
+END

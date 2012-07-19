@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/generators/web_service
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+USAGE
+file
+
+
+
+
+2009-06-25T15:40:12.000000Z
+4c2df31ad14ca8b23accecfae6597c6a
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+web_service_generator.rb
+file
+
+
+
+
+2009-06-25T15:40:12.000000Z
+fee820256dddc95611e065ca37374d0b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+templates
+dir
+

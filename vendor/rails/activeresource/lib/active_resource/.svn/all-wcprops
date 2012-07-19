@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource
+END
+custom_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/custom_methods.rb
+END
+validations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/validations.rb
+END
+connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/connection.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/version.rb
+END
+http_mock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/http_mock.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/base.rb
+END
+formats.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/lib/active_resource/formats.rb
+END

@@ -1,0 +1,41 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/oai-0.0.13/examples/models
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+file_model.rb
+file
+
+
+
+
+2009-06-25T15:41:39.000000Z
+c4314686e2c585829aba086f5ffb79a3
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+

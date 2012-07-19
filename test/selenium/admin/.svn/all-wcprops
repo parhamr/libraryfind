@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin
+END
+_user_form.sel
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_user_form.sel
+END
+nn_edit_collection_group.sel
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/nn_edit_collection_group.sel
+END
+list_providers.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/list_providers.sel
+END
+_list_collections.sel
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_list_collections.sel
+END
+_list_coverages.sel
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_list_coverages.sel
+END
+_provider_form.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_provider_form.sel
+END
+_show_user.sel
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_show_user.sel
+END
+basic_layout.sel
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/basic_layout.sel
+END
+show_user.sel
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/show_user.sel
+END
+_list_collection_groups.sel
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_list_collection_groups.sel
+END
+_basic_admin_layout.sel
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_basic_admin_layout.sel
+END
+new_user.sel
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/new_user.sel
+END
+_show_provider.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_show_provider.sel
+END
+_show_collection.sel
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_show_collection.sel
+END
+_show_coverage.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_show_coverage.sel
+END
+show_provider.sel
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/show_provider.sel
+END
+show_coverage.sel
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/show_coverage.sel
+END
+show_collection.sel
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/show_collection.sel
+END
+_list_users.sel
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_list_users.sel
+END
+_navigation.sel
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_navigation.sel
+END
+new_provider.sel
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/new_provider.sel
+END
+new_collection.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/new_collection.sel
+END
+new_coverage.sel
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/new_coverage.sel
+END
+search.sel
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/search.sel
+END
+_show_collection_group.sel
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_show_collection_group.sel
+END
+show_collection_group.sel
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/show_collection_group.sel
+END
+_list_providers.sel
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_list_providers.sel
+END
+basic_login.sel
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/basic_login.sel
+END
+list_collections.sel
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/list_collections.sel
+END
+list_coverages.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/list_coverages.sel
+END
+_coverage_form.sel
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_coverage_form.sel
+END
+_collection_form.sel
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_collection_form.sel
+END
+nn_edit_user.sel
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/nn_edit_user.sel
+END
+new_collection_group.sel
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/new_collection_group.sel
+END
+list_collection_groups.sel
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/list_collection_groups.sel
+END
+dashboard.sel
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/dashboard.sel
+END
+_collection_group_form.sel
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/_collection_group_form.sel
+END
+nn_edit_provider.sel
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/nn_edit_provider.sel
+END
+nn_edit_collection.sel
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/nn_edit_collection.sel
+END
+nn_edit_coverage.sel
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/nn_edit_coverage.sel
+END
+list_users.sel
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/metasearch/!svn/ver/1304/trunk/test/selenium/admin/list_users.sel
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/oai-0.0.13/examples/providers
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+dublin_core.rb
+file
+
+
+
+
+2009-06-25T15:41:40.000000Z
+3cb6accb9b4b99378474b13b43f40dc0
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

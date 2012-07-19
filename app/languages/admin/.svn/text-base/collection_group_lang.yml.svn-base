@@ -1,0 +1,61 @@
+EN:
+  #inline help
+  NAME_DESCRIPTION: help for group name here
+  NAME_EXAMPLE: e.g. example group name here
+  FULL_NAME_DESCRIPTION: help for group full name here
+  FULL_NAME_EXAMPLE: e.g. example group full name here
+  GROUP_DESC_DESCRIPTION: help for group description here
+  GROUP_DESC_EXAMPLE: e.g. example group description here 
+  COLLECTIONS_INSTRUCTIONS: Use the alphabet links to locate collections and click the corresponding checkboxes to add the collection to this group
+  #labels
+  ADD_COLLECTIONS: Add Collections
+  HOW_TO_REMOVE_COLLECTIONS: Turn off the corresponding checkboxes to remove the collection from this group
+  NAME_LABEL: "Name:"
+  FULL_NAME_LABEL: "Full Name:"
+  DESCRIPTION_LABEL: "Description:"
+  EDIT_COLLECTION_GROUP: "Edit Collection Group"
+  COLLECTION_GROUPS_HEADER: Collection Groups
+  COLLECTION_GROUP_HEADER: Collection Group
+  COLLECTION_GROUP_CREATED: Collection group was successfully created.
+  COLLECTION_GROUP_UPDATED: 'Collection Group was successfully updated.'
+FR:
+  #inline help
+  NAME_DESCRIPTION: FRENCH help for group name here
+  NAME_EXAMPLE: FRENCH e.g. example group name here
+  FULL_NAME_DESCRIPTION: FRENCH help for group full name here
+  FULL_NAME_EXAMPLE: FRENCH e.g. example group full name here
+  GROUP_DESC_DESCRIPTION: FRENCH help for group description here
+  GROUP_DESC_EXAMPLE: FRENCH e.g. example group description here 
+  COLLECTIONS_INSTRUCTIONS: FRENCH Use the alphabet links to locate collections and click the corresponding checkboxes to add the collection to this group
+  #labels
+  ADD_COLLECTIONS: FRENCH Add Collections
+  HOW_TO_REMOVE_COLLECTIONS: FRENCH Turn off the corresponding checkboxes to remove the collection from this group
+  NAME_LABEL: "FRENCH Name:"
+  FULL_NAME_LABEL: "FRENCH Full Name:"
+  DESCRIPTION_LABEL: "FRENCH Description:"
+  EDIT_COLLECTION_GROUP: "FRENCH Edit Collection Group"
+  COLLECTION_GROUPS_HEADER: FRENCH Collection Groups
+  COLLECTION_GROUP_HEADER: FRENCH Collection Group
+  COLLECTION_GROUP_CREATED: FRENCH Collection group was successfully created.
+  COLLECTION_GROUP_UPDATED: 'FRENCH Collection Group was successfully updated.'
+ES:
+  #inline help
+  NAME_DESCRIPTION: SPANISH help for group name here
+  NAME_EXAMPLE: SPANISH e.g. example group name here
+  FULL_NAME_DESCRIPTION: SPANISH help for group full name here
+  FULL_NAME_EXAMPLE: SPANISH e.g. example group full name here
+  GROUP_DESC_DESCRIPTION: SPANISH help for group description here
+  GROUP_DESC_EXAMPLE: SPANISH e.g. example group description here 
+  COLLECTIONS_INSTRUCTIONS: SPANISH Use the alphabet links to locate collections and click the corresponding checkboxes to add the collection to this group
+  #labels
+  ADD_COLLECTIONS: SPANISH Add Collections
+  HOW_TO_REMOVE_COLLECTIONS: SPANISH Turn off the corresponding checkboxes to remove the collection from this group
+  NAME_LABEL: "SPANISH Name:"
+  FULL_NAME_LABEL: "SPANISH Full Name:"
+  DESCRIPTION_LABEL: "SPANISH Description:"
+  EDIT_COLLECTION_GROUP: "SPANISH Edit Collection Group"
+  COLLECTION_GROUPS_HEADER: SPANISH Collection Groups
+  COLLECTION_GROUP_HEADER: SPANISH Collection Group
+  COLLECTION_GROUP_CREATED: SPANISH Collection group was successfully created.
+  COLLECTION_GROUP_UPDATED: 'SPANISH Collection Group was successfully updated.'
+    

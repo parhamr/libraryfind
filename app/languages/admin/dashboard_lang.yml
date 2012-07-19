@@ -1,0 +1,21 @@
+EN:
+  #_index.rhtml
+  COLLECTIONS: Collections
+  COLLECTION_GROUPS: Collection Groups
+  COVERAGES: Coverages
+  PROVIDERS: Providers
+  USERS: Users
+FR:
+  #_index.rhtml
+  COLLECTIONS: FRENCH Collections
+  COLLECTION_GROUPS: FRENCH Collection Groups
+  COVERAGES: FRENCH Coverages
+  PROVIDERS: FRENCH Providers
+  USERS: FRENCH Users
+ES:
+  #_index.rhtml
+  COLLECTIONS: SPANISH Collections
+  COLLECTION_GROUPS: SPANISH Collection Groups
+  COVERAGES: SPANISH Coverages
+  PROVIDERS: SPANISH Providers
+  USERS: SPANISH Users

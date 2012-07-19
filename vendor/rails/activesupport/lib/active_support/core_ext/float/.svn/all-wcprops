@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/core_ext/float
+END
+time.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/core_ext/float/time.rb
+END
+rounding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/core_ext/float/rounding.rb
+END

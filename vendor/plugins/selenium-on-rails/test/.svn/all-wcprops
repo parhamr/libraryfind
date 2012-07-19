@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test
+END
+suite_renderer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/suite_renderer_test.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/test_helper.rb
+END
+setup_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/setup_test.rb
+END
+selenese_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/selenese_test.rb
+END
+selenium_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/selenium_controller_test.rb
+END
+rselenese_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/rselenese_test.rb
+END
+renderer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/renderer_test.rb
+END
+selenium_support_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test/selenium_support_test.rb
+END

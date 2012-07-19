@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/generators/selenium/templates
+END
+selenese.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/generators/selenium/templates/selenese.rhtml
+END
+rselenese.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/generators/selenium/templates/rselenese.rhtml
+END
+rhtml.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/generators/selenium/templates/rhtml.rhtml
+END

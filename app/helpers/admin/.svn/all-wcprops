@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin
+END
+user_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/user_helper.rb
+END
+collection_group_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/collection_group_helper.rb
+END
+dashboard_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/dashboard_helper.rb
+END
+site_config_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/site_config_helper.rb
+END
+provider_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/provider_helper.rb
+END
+collection_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/collection_helper.rb
+END
+coverage_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/app/helpers/admin/coverage_helper.rb
+END

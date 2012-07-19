@@ -1,0 +1,50 @@
+<div id="page_contents">
+<%= render(:partial => "admin/navigation")%>
+<div id="center"  class="column">
+<h2><%=translate('COLLECTIONS_HEADER')%></h2>
+<div id="edit_form">
+  <div class="admin-list">
+  <%  columns_hash=Collection.columns_hash
+	  for column in @display_columns 
+      _class_name="medium-column"
+      if column=="mat_type" 
+        _class_name="small-column"
+      elsif column=="alt_name"
+        _class_name="large-column"
+	  end %> 
+      <label class="<%=_class_name%>"><%= columns_hash[column].human_name%></label>
+  <% end %>
+    <span class="action-links">&nbsp;</span>
+  </div>
+  <br/>
+<% for collection in @collections %>
+  <div class="admin-list">
+  <% for column in @display_columns
+        _class_name="medium-column"
+      if column=="mat_type" 
+        _class_name="small-column"
+      elsif column=="alt_name"
+        _class_name="large-column"
+	  end 
+      if collection.send(column)==nil or collection.send(column)=="" %>
+           <span class="<%=_class_name%>">&nbsp;</span>
+      <%elsif column=="alt_name"%>
+     <span class="<%=_class_name%>"><%= link_to h(collection.send(column)), :action => 'show', :id => collection %></span>
+	<%else%>
+    	<span class="<%=_class_name%>"><%=h collection.send(column) %></span>
+     <% end %>
+  <% end %>
+    <span class="action-links">
+      <%= link_to translate('EDIT'), :action => 'edit', :id => collection %>&nbsp;&nbsp;
+      <%= link_to translate('DESTROY'), { :action => 'destroy', :id => collection }, :confirm => translate('ARE_YOU_SURE'), :method => "post" %>&nbsp;&nbsp;
+      <!--<%= link_to translate('TEST_CONNECTION'), :action => 'test', :id => collection %>&nbsp;&nbsp;--></span> 
+  </div>
+  <br/>
+<% end %>
+<div>
+<%= link_to translate('PREVIOUS_PAGE'), { :page => @collection_pages.current.previous } if @collection_pages.current.previous %>
+<%= link_to translate('NEXT_PAGE'), { :page => @collection_pages.current.next } if @collection_pages.current.next %> 
+</div>
+</div>
+</div>
+</div>

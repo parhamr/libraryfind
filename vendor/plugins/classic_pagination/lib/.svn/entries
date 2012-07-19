@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/plugins/classic_pagination/lib
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+pagination_helper.rb
+file
+
+
+
+
+2009-06-25T15:26:34.000000Z
+535b7515c14fb3964e97be32c2d36415
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+pagination.rb
+file
+
+
+
+
+2009-06-25T15:26:34.000000Z
+d770c57066726c423cc9de4ca5b552cd
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+

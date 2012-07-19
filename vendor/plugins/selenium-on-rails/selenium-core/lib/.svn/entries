@@ -1,0 +1,46 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2007-02-14T18:04:11.352710Z
+777
+dchud
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+scriptaculous
+dir
+
+prototype.js
+file
+
+
+
+
+2009-06-25T15:25:59.000000Z
+f57aaa32617e68bc8328178fd26c1f52
+2007-02-14T18:04:11.352710Z
+777
+dchud
+
+cssQuery
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/vendor/ropenurl_custom
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/vendor/ropenurl_custom/test.rb
+END
+openurl.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/vendor/ropenurl_custom/openurl.gemspec
+END
+ropenurl-0.0.2.gem
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/metasearch/!svn/ver/1304/trunk/vendor/ropenurl_custom/ropenurl-0.0.2.gem
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/metasearch/!svn/ver/1304/trunk/vendor/ropenurl_custom/README
+END

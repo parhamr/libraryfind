@@ -1,0 +1,6 @@
+|open|/selenium/setup||
+|open|/record/search||
+|includePartial|basic_search_layout||
+
+
+Source: $Id$

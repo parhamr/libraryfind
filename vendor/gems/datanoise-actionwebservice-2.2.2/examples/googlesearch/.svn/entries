@@ -1,0 +1,49 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/examples/googlesearch
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+autoloading
+dir
+
+direct
+dir
+
+README
+file
+
+
+
+
+2009-06-25T15:40:20.000000Z
+4295cf97cf023c0b7656f62d93c77435
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+delegated
+dir
+

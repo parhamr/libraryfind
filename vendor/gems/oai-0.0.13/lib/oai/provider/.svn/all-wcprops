@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider
+END
+response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/response.rb
+END
+model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/model.rb
+END
+resumption_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/resumption_token.rb
+END
+metadata_format.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/metadata_format.rb
+END
+partial_result.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/partial_result.rb
+END

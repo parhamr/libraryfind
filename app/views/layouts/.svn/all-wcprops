@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/metasearch/!svn/ver/1304/trunk/app/views/layouts
+END
+custom.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/app/views/layouts/custom.rhtml
+END
+record.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/app/views/layouts/record.rhtml
+END
+libraryfind.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/metasearch/!svn/ver/1304/trunk/app/views/layouts/libraryfind.rhtml
+END

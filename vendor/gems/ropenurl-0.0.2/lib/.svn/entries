@@ -1,0 +1,43 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/ropenurl-0.0.2/lib
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+ropenurl
+dir
+
+ropenurl.rb
+file
+
+
+
+
+2009-06-25T15:40:46.000000Z
+7cf4a0159f4a1c0a43a17f81a596fd59
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

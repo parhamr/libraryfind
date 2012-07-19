@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 44
+spawn http://spawn.rubyforge.org/svn/spawn/
+
+END

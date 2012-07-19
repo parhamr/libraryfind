@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/templates/scaffolds
+END
+layout.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+END
+result.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/templates/scaffolds/result.html.erb
+END
+methods.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/templates/scaffolds/methods.html.erb
+END
+parameters.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/templates/scaffolds/parameters.html.erb
+END

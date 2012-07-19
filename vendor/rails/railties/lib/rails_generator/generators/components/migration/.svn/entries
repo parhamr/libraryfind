@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties/lib/rails_generator/generators/components/migration
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+migration_generator.rb
+file
+
+
+
+
+2009-06-25T15:38:18.000000Z
+2f94f1b23cd74c1a205bed0f2aa261f4
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+USAGE
+file
+
+
+
+
+2009-06-25T15:38:18.000000Z
+f706e4af321e57512c66e22676380a72
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+templates
+dir
+

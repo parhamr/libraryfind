@@ -1,0 +1,44 @@
+# $Id$
+
+#=========================================================================
+# LIBRARYFIND_INDEXER:  Sets the indexer to be used by Libraryfind
+# Example
+#   LIBRARYFIND_INDEXER: solr
+#     values: solr
+#             ferret
+#=========================================================================
+LIBRARYFIND_INDEXER: ferret
+
+
+#=========================================================================
+# LIBRARYFIND_FERRET_PATH:  Local path to ferret index
+#   Example:
+#   LIBRARYFIND_FERRET_PATH: /tmp/LibraryFind/ferret_index
+#=========================================================================
+LIBRARYFIND_FERRET_PATH: /PATH/TO/YOUR/FERRET/INDEX
+
+
+#=========================================================================
+# PARSER_TYPE:  Which Ruby XML parser to use for metadata harvesting and
+#				for internal XML transforms
+#   Values:
+#	PARSER_TYPE = rexml  # Built-in, native Ruby parser
+#	PARSER_TYPE = libxml # Requires separate libxml gem, but much faster
+#=========================================================================
+PARSER_TYPE: libxml 
+LANGUAGE: EN
+DEFAULT_GROUPS: general,image
+GENERAL_TEMPLATE: general
+IMAGES_TEMPLATE: images
+
+ILL_URL: https://yourlibrary.edu/illiad.dll/OpenURL?
+
+#LibraryFind API Developers key for pulling cover art.  Only uncomment if 
+#this is defined.
+#LIBRARYTHING_DEVKEY: [your_key]
+OPENLIBRARY_COVERS: 1
+
+#===========================================================================
+# If using solr, need to point to where solr lives
+#===========================================================================
+#LIBRARYFIND_SOLR_HOST: http://path.to.solr.com

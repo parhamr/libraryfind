@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/metasearch/!svn/ver/1304/trunk/test/functional/admin
+END
+collection_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/test/functional/admin/collection_controller_test.rb
+END
+user_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/test/functional/admin/user_controller_test.rb
+END
+collection_group_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/test/functional/admin/collection_group_controller_test.rb
+END
+dashboard_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/test/functional/admin/dashboard_controller_test.rb
+END
+site_config_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/test/functional/admin/site_config_controller_test.rb
+END

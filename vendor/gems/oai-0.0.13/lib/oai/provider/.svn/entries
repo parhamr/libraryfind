@@ -1,0 +1,102 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/oai-0.0.13/lib/oai/provider
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+model
+dir
+
+response.rb
+file
+
+
+
+
+2009-06-25T15:41:27.000000Z
+6d4005ca0a0854031f1fc07f0038bfa8
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+model.rb
+file
+
+
+
+
+2009-06-25T15:41:27.000000Z
+b2670d7e4bdc02813b8f539757d7ed59
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+resumption_token.rb
+file
+
+
+
+
+2009-06-25T15:41:28.000000Z
+1b375b83141d4aaaba694aaf9442b7d2
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+metadata_format
+dir
+
+metadata_format.rb
+file
+
+
+
+
+2009-06-25T15:41:28.000000Z
+4ebdc331bbcd038ebe0e947995da6e46
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+partial_result.rb
+file
+
+
+
+
+2009-06-25T15:41:28.000000Z
+61dca12ddf6714578ffae9712bdc7c20
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+response
+dir
+

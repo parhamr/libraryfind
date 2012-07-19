@@ -1,0 +1,85 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties/configs
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+locales
+dir
+
+lighttpd.conf
+file
+
+
+
+
+2009-06-25T15:39:30.000000Z
+9df5d40f1b3a3a9f1248e44d6ebbabcf
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+routes.rb
+file
+
+
+
+
+2009-06-25T15:39:30.000000Z
+53f38ce8526821ed084c69658732ee85
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+apache.conf
+file
+
+
+
+
+2009-06-25T15:39:30.000000Z
+efabcc9c4d4c5abeea2e1a17ff578c64
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+initializers
+dir
+
+databases
+dir
+
+empty.log
+file
+
+
+
+
+2009-06-25T15:39:30.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

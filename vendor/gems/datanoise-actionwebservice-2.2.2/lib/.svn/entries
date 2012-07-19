@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+action_web_service
+dir
+
+action_web_service.rb
+file
+
+
+
+
+2009-06-25T15:40:07.000000Z
+39d4d96f9f8e1146b98e54b695d82fc5
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+actionwebservice.rb
+file
+
+
+
+
+2009-06-25T15:40:07.000000Z
+5a8e6260b483678c3a62c875518ae58b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

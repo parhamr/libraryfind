@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/script/performance
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2006-06-27T22:11:15.085628Z
+331
+herlockt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+benchmarker
+file
+
+
+
+
+2009-06-25T15:42:50.000000Z
+91086af38733556c5aabc91eb4b20bed
+2006-06-27T22:11:15.085628Z
+331
+herlockt
+
+profiler
+file
+
+
+
+
+2009-06-25T15:42:50.000000Z
+4dd7faa9b0b5f678082e19c97852b005
+2006-06-27T22:11:15.085628Z
+331
+herlockt
+

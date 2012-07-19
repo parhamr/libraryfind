@@ -1,0 +1,124 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/datanoise-actionwebservice-2.2.2
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:40:26.000000Z
+954dbd2be51f07922737491da46c7759
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+setup.rb
+file
+
+
+
+
+2009-06-25T15:40:26.000000Z
+78df019f9975b9b23a470019cd35912f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+TODO
+file
+
+
+
+
+2009-06-25T15:40:26.000000Z
+3abdeb2e1fcf507edb896d8c702c6191
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2009-06-25T15:40:26.000000Z
+f2fbd3d491ffc3476e1ccfd4189ba045
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+generators
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2009-06-25T15:40:26.000000Z
+bbd71e184d4a6dd00b559735c3471d30
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+README
+file
+
+
+
+
+2009-06-25T15:40:26.000000Z
+b6557a544928243808672e7b37a8f49b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+examples
+dir
+
+.specification
+file
+
+
+
+
+2009-06-25T15:40:27.000000Z
+bc4575a1ffd5e4078a62fa171308869b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

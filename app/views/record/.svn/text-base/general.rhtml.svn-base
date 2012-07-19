@@ -1,0 +1,13 @@
+<div id="search_results">
+    <%= render(:partial => "navigation")%>
+	<%= render(:partial=>"filter_trail")%>
+  <% if @IsMobile==true %>
+     <div class="column">
+     <br />
+     <br />
+  <% else %>
+  <div id="center"  class="column">
+  <% end %>
+    <%= render(:partial => "result_rows") %>
+  </div>
+</div>

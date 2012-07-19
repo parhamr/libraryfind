@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activerecord/lib
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+active_record
+dir
+
+active_record.rb
+file
+
+
+
+
+2009-06-25T15:32:55.000000Z
+ec85098c8b7f0f82473be6ccac1f5a6c
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+activerecord.rb
+file
+
+
+
+
+2009-06-25T15:32:55.000000Z
+f47cc52defd19e7a36145f887d72425b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

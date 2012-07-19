@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/multibyte
+END
+chars.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/multibyte/chars.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/multibyte/exceptions.rb
+END
+unicode_database.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/multibyte/unicode_database.rb
+END

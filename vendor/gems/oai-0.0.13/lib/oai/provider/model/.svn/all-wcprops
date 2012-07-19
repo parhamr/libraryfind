@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/model
+END
+activerecord_caching_wrapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/model/activerecord_caching_wrapper.rb
+END
+activerecord_wrapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/lib/oai/provider/model/activerecord_wrapper.rb
+END

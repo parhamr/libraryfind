@@ -1,0 +1,97 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/flickraw-0.5.1
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+rakefile
+file
+
+
+
+
+2009-06-25T15:40:34.000000Z
+1a7d204fce56199c09c86f26a099052a
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+lib
+dir
+
+copying.txt
+file
+
+
+
+
+2009-06-25T15:40:34.000000Z
+87bb5dcbc2de7ba483d6ddf4f8394597
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+flickraw_rdoc.rb
+file
+
+
+
+
+2009-06-25T15:40:34.000000Z
+41333a3352459ff7344604e94395639c
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+README
+file
+
+
+
+
+2009-06-25T15:40:34.000000Z
+4ac16880a044de4dc777ad2a21bbc94d
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+examples
+dir
+
+.specification
+file
+
+
+
+
+2009-06-25T15:40:35.000000Z
+d5fd01a1ad26f162caca38ca13a41b1f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/metasearch/!svn/ver/1304/trunk/app/views/cart
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/app/views/cart/list.rhtml
+END
+_navigation.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/app/views/cart/_navigation.rhtml
+END
+message.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/metasearch/!svn/ver/1304/trunk/app/views/cart/message.rhtml
+END

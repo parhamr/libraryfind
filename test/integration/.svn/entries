@@ -1,0 +1,41 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/test/integration
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2007-01-26T08:18:10.372003Z
+701
+frumkinj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+admin_simple_test.rb
+file
+
+
+
+
+2009-06-25T15:22:33.000000Z
+246d85f20c5dfd0a54adaee726a956f7
+2007-01-26T08:18:10.372003Z
+701
+frumkinj
+has-props
+

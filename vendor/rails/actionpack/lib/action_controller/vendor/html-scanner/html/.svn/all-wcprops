@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html
+END
+document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html/document.rb
+END
+selector.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html/selector.rb
+END
+node.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html/node.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html/version.rb
+END
+sanitizer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html/sanitizer.rb
+END
+tokenizer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/actionpack/lib/action_controller/vendor/html-scanner/html/tokenizer.rb
+END

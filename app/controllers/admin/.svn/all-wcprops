@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin
+END
+provider_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/provider_controller.rb
+END
+collection_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/collection_controller.rb
+END
+coverage_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/coverage_controller.rb
+END
+user_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/user_controller.rb
+END
+collection_group_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/collection_group_controller.rb
+END
+dashboard_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/dashboard_controller.rb
+END
+site_config_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/app/controllers/admin/site_config_controller.rb
+END

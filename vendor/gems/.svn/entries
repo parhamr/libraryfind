@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-06-25T15:13:07.645154Z
+1318
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+datanoise-actionwebservice-2.2.2
+dir
+
+flickraw-0.5.1
+dir
+
+opensearch-0.0.1
+dir
+
+ropenurl-0.0.2
+dir
+
+oai-0.0.13
+dir
+
+json-1.1.3
+dir
+
+sru-0.0.5
+dir
+
+wcapi-0.0.1
+dir
+

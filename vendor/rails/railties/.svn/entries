@@ -1,0 +1,128 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:39:32.000000Z
+843b2b55a076ea38720e900401478715
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+CHANGELOG
+file
+
+
+
+
+2009-06-25T15:39:32.000000Z
+a5b8c2af28fbf749db70b208823b34ee
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+environments
+dir
+
+dispatches
+dir
+
+configs
+dir
+
+config.ru
+file
+
+
+
+
+2009-06-25T15:39:32.000000Z
+054afac43d33ab71055f16fc5d0f99b4
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+README
+file
+
+
+
+
+2009-06-25T15:39:33.000000Z
+0cdf56769f20a2b73a929ac3ba633152
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+helpers
+dir
+
+html
+dir
+
+doc
+dir
+
+lib
+dir
+
+builtin
+dir
+
+bin
+dir
+
+fresh_rakefile
+file
+
+
+
+
+2009-06-25T15:39:32.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+MIT-LICENSE
+file
+
+
+
+
+2009-06-25T15:39:32.000000Z
+beb132f85b972e229852580d323b2981
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

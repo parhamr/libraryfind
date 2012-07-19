@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/helpers
+END
+test_wrapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/helpers/test_wrapper.rb
+END
+provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/client/helpers/provider.rb
+END

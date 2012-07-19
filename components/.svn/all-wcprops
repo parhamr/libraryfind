@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/metasearch/!svn/ver/1304/trunk/components
+END
+oai_dc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/metasearch/!svn/ver/1304/trunk/components/oai_dc.rb
+END
+remove_cache_item.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/components/remove_cache_item.rb
+END
+sync_db.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/metasearch/!svn/ver/1304/trunk/components/sync_db.rb
+END
+harvester.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/metasearch/!svn/ver/1304/trunk/components/harvester.rb
+END
+coverage_load.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/metasearch/!svn/ver/1304/trunk/components/coverage_load.rb
+END
+cache_cleaner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/metasearch/!svn/ver/1304/trunk/components/cache_cleaner.rb
+END
+session_cleaner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/metasearch/!svn/ver/1304/trunk/components/session_cleaner.rb
+END

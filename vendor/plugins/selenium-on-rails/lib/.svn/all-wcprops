@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/lib
+END
+selenium_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/lib/selenium_helper.rb
+END
+selenium_on_rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/lib/selenium_on_rails.rb
+END
+selenium_on_rails_config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/lib/selenium_on_rails_config.rb
+END

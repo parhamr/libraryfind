@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/metasearch/!svn/ver/1304/trunk/app/models/custom_connectors
+END
+wcapi_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/app/models/custom_connectors/wcapi_search_class.rb
+END
+example_search_class.rb.example
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/metasearch/!svn/ver/1304/trunk/app/models/custom_connectors/example_search_class.rb.example
+END
+flickr_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/app/models/custom_connectors/flickr_search_class.rb
+END
+yahoo_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/app/models/custom_connectors/yahoo_search_class.rb
+END

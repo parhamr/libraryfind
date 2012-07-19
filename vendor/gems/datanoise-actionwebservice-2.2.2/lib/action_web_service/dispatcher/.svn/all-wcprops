@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/dispatcher
+END
+abstract.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/dispatcher/abstract.rb
+END
+action_controller_dispatcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/lib/action_web_service/dispatcher/action_controller_dispatcher.rb
+END

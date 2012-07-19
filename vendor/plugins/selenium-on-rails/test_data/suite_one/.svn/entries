@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/plugins/selenium-on-rails/test_data/suite_one
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2007-02-14T18:04:11.352710Z
+777
+dchud
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+subsuite
+dir
+
+suite_one_testcase1.sel
+file
+
+
+
+
+2009-06-25T15:26:16.000000Z
+fffc130acd60b3e8cb2a568e9db5ac45
+2007-02-14T18:04:11.352710Z
+777
+dchud
+
+suite_one_testcase2.sel
+file
+
+
+
+
+2009-06-25T15:26:16.000000Z
+fffc130acd60b3e8cb2a568e9db5ac45
+2007-02-14T18:04:11.352710Z
+777
+dchud
+

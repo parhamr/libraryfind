@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/suite_one
+END
+suite_one_testcase1.sel
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/suite_one/suite_one_testcase1.sel
+END
+suite_one_testcase2.sel
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/test_data/suite_one/suite_one_testcase2.sel
+END

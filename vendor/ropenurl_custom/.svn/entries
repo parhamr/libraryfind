@@ -1,0 +1,86 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/ropenurl_custom
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2007-03-09T00:14:25.733606Z
+833
+rordway
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+test.rb
+file
+
+
+
+
+2009-06-25T15:24:36.000000Z
+c7d86fd9ca5a9480a235c22b2a81a22e
+2007-01-27T00:12:06.097935Z
+709
+frumkinj
+has-props
+
+lib
+dir
+
+openurl.gemspec
+file
+
+
+
+
+2009-06-25T15:24:36.000000Z
+eb047c52d7d11fb506e9b88cdcbe948d
+2007-01-27T00:12:06.097935Z
+709
+frumkinj
+has-props
+
+ropenurl-0.0.2.gem
+file
+
+
+
+
+2009-06-25T15:24:37.000000Z
+e585eb39e164675e513819249b0130b2
+2007-03-09T00:14:25.733606Z
+833
+rordway
+has-props
+
+README
+file
+
+
+
+
+2009-06-25T15:24:37.000000Z
+1adb96cc46534beacd487147af574455
+2006-11-08T21:56:26.652499Z
+528
+reeset
+has-props
+

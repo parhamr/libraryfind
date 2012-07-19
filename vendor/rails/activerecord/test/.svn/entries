@@ -1,0 +1,61 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activerecord/test
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+schema
+dir
+
+assets
+dir
+
+connections
+dir
+
+models
+dir
+
+config.rb
+file
+
+
+
+
+2009-06-25T15:32:29.000000Z
+2cec417ec9966c979e5314731c20060f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+fixtures
+dir
+
+migrations
+dir
+
+cases
+dir
+

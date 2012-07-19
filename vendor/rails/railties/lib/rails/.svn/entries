@@ -1,0 +1,109 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties/lib/rails
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+rack
+dir
+
+gem_builder.rb
+file
+
+
+
+
+2009-06-25T15:39:02.000000Z
+078a0d211572f7e0e56e4c7dc426fb45
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+plugin.rb
+file
+
+
+
+
+2009-06-25T15:39:02.000000Z
+a1eb95667027219ef31212bb44f452b8
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+rack.rb
+file
+
+
+
+
+2009-06-25T15:39:02.000000Z
+b758252c57cfb3b42bd572cf642b3194
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+version.rb
+file
+
+
+
+
+2009-06-25T15:39:02.000000Z
+0e783237299f13f6b3809458fe67a4ce
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+gem_dependency.rb
+file
+
+
+
+
+2009-06-25T15:39:02.000000Z
+6e6e1f8044165e3edb2f6bd891cafc51
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+mongrel_server
+dir
+
+plugin
+dir
+
+vendor_gem_source_index.rb
+file
+
+
+
+
+2009-06-25T15:39:03.000000Z
+abe1c3e56c1c348083c30b5d2ac37ba5
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

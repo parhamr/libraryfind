@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test
+END
+testblankslate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test/testblankslate.rb
+END
+performance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test/performance.rb
+END
+test_xchar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test/test_xchar.rb
+END
+preload.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test/preload.rb
+END
+testmarkupbuilder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test/testmarkupbuilder.rb
+END
+testeventbuilder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/test/testeventbuilder.rb
+END

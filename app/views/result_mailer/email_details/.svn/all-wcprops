@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/app/views/result_mailer/email_details
+END
+_generic.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/app/views/result_mailer/email_details/_generic.rhtml
+END
+_image.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/app/views/result_mailer/email_details/_image.rhtml
+END
+_article.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/app/views/result_mailer/email_details/_article.rhtml
+END
+_book.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/metasearch/!svn/ver/1304/trunk/app/views/result_mailer/email_details/_book.rhtml
+END

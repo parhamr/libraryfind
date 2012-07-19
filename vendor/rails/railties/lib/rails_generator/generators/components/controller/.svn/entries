@@ -1,0 +1,55 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties/lib/rails_generator/generators/components/controller
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+USAGE
+file
+
+
+
+
+2009-06-25T15:38:04.000000Z
+334eb6dcaa907a9902e134f5f2bd9679
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+controller_generator.rb
+file
+
+
+
+
+2009-06-25T15:38:04.000000Z
+41c1d0b1be9a11a00bb754962a3a8f9b
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+templates
+dir
+

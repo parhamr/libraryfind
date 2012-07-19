@@ -1,0 +1,97 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activerecord
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+RUNNING_UNIT_TESTS
+file
+
+
+
+
+2009-06-25T15:32:58.000000Z
+8f7a99887fa37796fe66e6bb6089c028
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:32:58.000000Z
+4a524382a822a9ec3bf382e782a1ec8c
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2009-06-25T15:32:58.000000Z
+f8e97344cf012500f95af3ac27e8dce6
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+install.rb
+file
+
+
+
+
+2009-06-25T15:32:58.000000Z
+e122dbd32858b8d5dfda395d22da5fe8
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+README
+file
+
+
+
+
+2009-06-25T15:32:58.000000Z
+c9a8932136f865f56659405f9dd77925
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+examples
+dir
+

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/metasearch/!svn/ver/1304/trunk/app/models
+END
+cache_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/app/models/cache_search_class.rb
+END
+calc_rank.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/metasearch/!svn/ver/1304/trunk/app/models/calc_rank.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/metasearch/!svn/ver/1304/trunk/app/models/user.rb
+END
+record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/metasearch/!svn/ver/1304/trunk/app/models/record.rb
+END
+job_queue.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/metasearch/!svn/ver/1304/trunk/app/models/job_queue.rb
+END
+proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/metasearch/!svn/ver/1304/trunk/app/models/proxy.rb
+END
+oai_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/app/models/oai_search_class.rb
+END
+sru_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/app/models/sru_search_class.rb
+END
+xpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/metasearch/!svn/ver/1304/trunk/app/models/xpath.rb
+END
+hit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/metasearch/!svn/ver/1304/trunk/app/models/hit.rb
+END
+collection_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/metasearch/!svn/ver/1304/trunk/app/models/collection_list.rb
+END
+group_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/metasearch/!svn/ver/1304/trunk/app/models/group_list.rb
+END
+job_item.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/app/models/job_item.rb
+END
+site_config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/app/models/site_config.rb
+END
+provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/app/models/provider.rb
+END
+coverage.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/app/models/coverage.rb
+END
+collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/metasearch/!svn/ver/1304/trunk/app/models/collection.rb
+END
+cached_search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/metasearch/!svn/ver/1304/trunk/app/models/cached_search.rb
+END
+collection_group_member.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/app/models/collection_group_member.rb
+END
+opensearch_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/app/models/opensearch_search_class.rb
+END
+z3950_search_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/app/models/z3950_search_class.rb
+END
+cached_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/metasearch/!svn/ver/1304/trunk/app/models/cached_record.rb
+END
+collection_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/app/models/collection_group.rb
+END
+result_mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/metasearch/!svn/ver/1304/trunk/app/models/result_mailer.rb
+END
+authorize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/metasearch/!svn/ver/1304/trunk/app/models/authorize.rb
+END
+google_spell.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/metasearch/!svn/ver/1304/trunk/app/models/google_spell.rb
+END
+book_covers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/app/models/book_covers.rb
+END

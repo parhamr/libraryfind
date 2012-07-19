@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/test/fixtures
+END
+beast.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/test/fixtures/beast.rb
+END
+customer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/test/fixtures/customer.rb
+END
+person.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/test/fixtures/person.rb
+END
+street_address.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activeresource/test/fixtures/street_address.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/json-1.1.3/benchmarks
+END
+benchmark_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/json-1.1.3/benchmarks/benchmark_generator.rb
+END
+benchmark_rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/json-1.1.3/benchmarks/benchmark_rails.rb
+END
+benchmark.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/json-1.1.3/benchmarks/benchmark.txt
+END
+benchmark_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/json-1.1.3/benchmarks/benchmark_parser.rb
+END

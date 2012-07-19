@@ -1,0 +1,185 @@
+# $Id: cached_search.rb 1281 2008-12-18 03:13:50Z reeset $
+
+# LibraryFind - Quality find done better.
+# Copyright (C) 2007 Oregon State University
+#
+# This program is free software; you can redistribute it and/or modify it under 
+# the terms of the GNU General Public License as published by the Free Software 
+# Foundation; either version 2 of the License, or (at your option) any later 
+# version.
+#
+# This program is distributed in the hope that it will be useful, but WITHOUT 
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS 
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with 
+# this program; if not, write to the Free Software Foundation, Inc., 59 Temple 
+# Place, Suite 330, Boston, MA 02111-1307 USA
+#
+# Questions or comments on this program may be addressed to:
+#
+# LibraryFind
+# 121 The Valley Library
+# Corvallis OR 97331-4501
+#
+# http://libraryfind.org
+
+# Use to be cached_searches.  Moved to 
+# accom. rails naming convention
+
+class CachedSearch < ActiveRecord::Base
+  has_many :hit
+  has_many :cached_record
+
+  def self.check_cache (query, type, set)
+    query_string = ""
+    type_string = ""
+    if query.length > 1
+        x = 0
+        y = query.length - 1
+        y.times do
+           query[x] = query[x].gsub("'", "")
+           x = x + 1
+        end 
+        query_string = query.join('|LF_DEL|') #to_like_conditions(query)
+	type_string = type.join('|LF_DEL|') #to_like_conditions(type)
+    else
+        query_string = query[0].gsub("'", "")
+	type_string = type[0]
+    end
+
+    objRecords = CachedSearch.find(:all, :conditions => "query_string='#{query_string}'  AND query_type='#{type_string}'")
+
+    return nil if objRecords == nil
+    return objRecords
+  end
+
+  def self.set_query (query, type, set, max)
+    require "date"
+
+    query_string = ""
+    type_string = ""
+    if query.length > 1 
+	x = 0
+	y = query.length -1
+	y.times do
+	   query[x] = query[x].gsub("'", "")
+	   x = x + 1
+        end 
+	query_string = query.join("|LF_DEF|")
+  	type_string = type.join("|LF_DEF|")
+    else
+        query_string = query[0].gsub("'", "")
+	type_string = type[0]
+    end
+
+    objSearch = CachedSearch.new("query_string" => query_string, "query_type" => type_string, "collection_set" => set, "created_at" => DateTime.new.to_s, "max_recs" =>max)
+    objSearch.save
+    return objSearch.id
+  end
+
+
+  def self.update_query(id, max)
+    objSearch = CachedSearch.find(id, :lock=>true)
+    objSearch.max_recs = max
+    objSearch.save
+  end
+
+  def self.retrieve_metadata(sid, coll_id, max)
+    objRecords = CachedRecord.find(:all, :conditions => "search_id=#{sid} AND collection_id=#{coll_id}")
+    return nil if objRecords[0] == nil
+    if max > -1
+      return nil if objRecords[0].max_recs < max
+    end
+    return objRecords[0]
+  end 
+
+  def self.save_metadata(sid, metadata, coll_id, max, istatus)
+     objTest = CachedRecord.find(:all, :conditions => "search_id=#{sid} AND collection_id=#{coll_id}", :lock=>true)
+     if objTest[0]==nil
+       objRecords = CachedRecord.new("search_id" => sid, "data" => metadata, "collection_id" => coll_id, "max_recs" => max, "status"=> istatus.to_i)
+       objRecords.save
+       return objRecords.id
+     else 
+       objTest[0].data = metadata
+       objTest[0].max_recs = max
+       objTest[0].status = istatus.to_i
+       objTest[0].save 
+       return objTest[0].id
+     end
+  end
+ 
+  def self.save_execution_time(sid, coll_id, stime)
+     objTest = CachedRecord.find(:all, :conditions => "search_id=#{sid} AND collection_id=#{coll_id}", :lock=>true)
+     if objTest[0]!=nil
+       objTest[0].search_time = stime
+       objTest[0].save
+     end 
+  end
+
+  def self.save_hits(sid, session_id, result_count, action_type, data) 
+     objHits = Hit.new("session_id" => session_id, "search_id" => sid, "result_count" => result_count, "action_type" => action_type, "data" => data)
+     objHits.save
+  end
+
+
+  def self.get_item(sid) 
+     arr = sid.split(";")
+     objRecords = CachedRecord.find(:all, :conditions => "search_id=#{arr[0]} AND collection_id=#{arr[1]}")
+     return nil if objRecords[0] == nil
+  end
+
+
+  def self.build_cache_xml(lrecords) 
+     begin
+        _lprint = false
+        _lxml = ""
+        objBuilder = Builder::XmlMarkup.new(:target => _lxml, :indent =>1)
+        objBuilder.record {
+          for _zindex in 0..(lrecords.length-1)
+            objBuilder.item {
+              lrecords[_zindex].each_pair() {|lkey, lvalue|
+  		if lvalue == nil
+		   eval("objBuilder." + lkey.to_s + "")
+	        else
+		   eval("objBuilder." + lkey.to_s + lvalue.to_s.dump)
+                end
+                #if lname.length >= 2
+                #  eval("objBuilder." + lname[0].to_s + lname[1].to_s.dump)
+                #else
+                #  eval("objBuilder." + lname[0].to_s + "")
+                #end
+              }
+              _lprint=true
+            }
+          end
+        }
+        if _lprint == false 
+          _lxml = nil
+        end 
+        return _lxml
+     rescue StandardError => bang
+	return nil
+     end
+  end
+
+  def self.to_like_conditions( conditions )
+    like_conditions = []
+    key_count = conditions.size
+    k = ""
+    conditions.each_key do |key|
+      k += "#{key} LIKE ?"
+      if key_count > 1 
+        k += " and "
+      end
+      key_count -= 1
+    end
+    like_conditions << k
+    
+    conditions.each_value do |value| 
+      like_conditions << "%#{value}%"
+    end
+    
+    return like_conditions
+  end
+end

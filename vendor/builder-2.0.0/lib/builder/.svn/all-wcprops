@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/lib/builder
+END
+blankslate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/lib/builder/blankslate.rb
+END
+xmlmarkup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/lib/builder/xmlmarkup.rb
+END
+xchar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/lib/builder/xchar.rb
+END
+xmlevents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/lib/builder/xmlevents.rb
+END
+xmlbase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/metasearch/!svn/ver/1304/trunk/vendor/builder-2.0.0/lib/builder/xmlbase.rb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activesupport/lib/active_support/core_ext/date_time
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+calculations.rb
+file
+
+
+
+
+2009-06-25T15:28:05.000000Z
+b80db5fcdaf182a29d4ab3a430ae5435
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+conversions.rb
+file
+
+
+
+
+2009-06-25T15:28:05.000000Z
+7061afae5f97169c740f61b37a9ed98f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

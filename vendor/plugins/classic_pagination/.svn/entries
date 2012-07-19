@@ -1,0 +1,94 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/plugins/classic_pagination
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:26:35.000000Z
+b14424b71d2f606a775061237c8226f1
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+init.rb
+file
+
+
+
+
+2009-06-25T15:26:35.000000Z
+181539722e198d92992a94f40310f4fc
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2009-06-25T15:26:35.000000Z
+3ef206f381b42341342908fcc0001210
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+install.rb
+file
+
+
+
+
+2009-06-25T15:26:35.000000Z
+1c88d6bc27aa809cd6ef26543c18b1e6
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+
+README
+file
+
+
+
+
+2009-06-25T15:26:36.000000Z
+f1df690ff1ea0da74f8fe161f50722ad
+2009-06-19T20:16:02.618741Z
+1314
+reeset
+

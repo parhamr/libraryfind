@@ -1,0 +1,37 @@
+<% form_tag({ :action => "retrieve", :controller=>'/record'}, {:name=>'search_form', :id=>'search_form', :onsubmit=>"showWait()"})  do -%>
+   <input type='hidden' name='start_search' id="start_search" value="true">
+
+<%  query_string=""
+	@values=params[:query] 
+   if @values!=nil
+		query_string=@values[:string]
+	else
+	  if @query!=nil
+		query_string=@query*', '.to_s
+	  end
+	end
+	sets=params[:sets]
+	if sets==nil or sets==""
+		sets=@sets
+	end
+%> 
+	<input type="hidden" id="sets" name="sets" value=<%=sets%> >
+	
+  <span id="simpleSearch"  >
+    <input type="hidden" name="mobile" value="<%=@IsMobile.to_s%>" />
+    <% if @IsMobile == true %>
+    <%=text_field_tag "query[string]", query_string, {:size=>"10"}%>
+    <% else %>
+    <%=text_field_tag "query[string]", query_string, {:size=>"36"}%>
+    <% end %>
+    <%= submit_tag translate('FIND_IT'), {:id=>"submitButton"}%>  
+    <% if @IsMobile != true %>
+     <%=link_to_function translate('ADVANCED_SEARCH'), "$('start_search').value='false';var query_string=getQueryElement().value;var set_string=$('sets').value;window.location='/record/advanced_search?query[string]='+escape(query_string)+'&sets='+set_string"%>
+    <% end %>
+  <span id="waitimage" class="waitimage"><img src="/images/wait.gif"/></span>
+  </span>
+<%end%>
+<script language='JavaScript'>
+	setFocus();
+	Element.hide('waitimage')
+</script>

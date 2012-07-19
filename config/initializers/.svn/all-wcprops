@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/metasearch/!svn/ver/1316/trunk/config/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/metasearch/!svn/ver/1304/trunk/config/initializers/inflections.rb
+END
+lf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/config/initializers/lf.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/metasearch/!svn/ver/1304/trunk/config/initializers/new_rails_defaults.rb
+END
+lf.rb.example
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1316/trunk/config/initializers/lf.rb.example
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/config/initializers/mime_types.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/metasearch/!svn/ver/1304/trunk/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/metasearch/!svn/ver/1304/trunk/test/test_helper.rb
+END
+wsdl_example.gzip
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/test/wsdl_example.gzip
+END

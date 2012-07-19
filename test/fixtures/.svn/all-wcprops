@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures
+END
+collection_group_members.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/collection_group_members.yml
+END
+records.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/records.yml
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/users.yml
+END
+cached_searches.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/cached_searches.yml
+END
+hits.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/hits.yml
+END
+cached_records.yml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/cached_records.yml
+END
+collection_groups.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/collection_groups.yml
+END
+site_configs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/site_configs.yml
+END
+collections.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/metasearch/!svn/ver/1304/trunk/test/fixtures/collections.yml
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates
+END
+plugin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/plugin.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/test_helper.rb
+END
+unit_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/unit_test.rb
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/Rakefile
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/USAGE
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/init.rb
+END
+tasks.rake
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/tasks.rake
+END
+generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/generator.rb
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/install.rb
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/MIT-LICENSE
+END
+uninstall.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/uninstall.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/railties/lib/rails_generator/generators/components/plugin/templates/README
+END

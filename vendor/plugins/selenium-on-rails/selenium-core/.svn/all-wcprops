@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core
+END
+iedoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/iedoc.xml
+END
+selenium-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/selenium-logo.png
+END
+TestRunner.hta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.hta
+END
+TestPrompt.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/TestPrompt.html
+END
+TestRunner-splash.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/TestRunner-splash.html
+END
+selenium-test.css
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/selenium-test.css
+END
+SeleniumLog.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/SeleniumLog.html
+END
+RemoteRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/RemoteRunner.html
+END
+iedoc-core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/iedoc-core.xml
+END
+selenium.css
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/selenium.css
+END
+Blank.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/Blank.html
+END
+TestRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/TestRunner.html
+END
+InjectedRemoteRunner.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/InjectedRemoteRunner.html
+END

@@ -1,0 +1,52 @@
+<div id="left" class="column"><!-- nav bar -->
+  <div id="browse">
+    <div class="xsnazzysearch"><b class="xtop "><b class="xb1"></b><b class="xb4"></b></b>
+      <div class="xboxcontent">
+        <h2 id="browsetitle"><%=translate('ADMINISTRATION')%></h2>
+        <div id="t_nav">
+          <div id="plus"></div>
+          <div id="dashboard" class="navigation">     <%=link_to translate('ADMIN_HOME'), :controller=>'/admin/dashboard', :action=>'index'%></div> 
+          <div id="plus"></div>
+          <div id="bCollections" class="navigation"><%= link_to translate('COLLECTIONS'), :controller => '/admin/collection', :action => 'index' %>
+            <div name="menuItem" id="tCollections" class="expanded" init="0">
+              <%= link_to translate('LIST_COLLECTIONS'), :controller => '/admin/collection', :action => 'list' %>
+              <%= link_to translate('ADD_A_NEW_COLLECTION'), :controller => '/admin/collection', :action => 'new' %>
+            </div>
+          </div>
+          <div id="plus"></div>
+          <div id="bCollectionGroups" class="navigation"><%= link_to translate('COLLECTION_GROUPS'), :controller => '/admin/collection_group', :action => 'index' %>
+            <div name="menuItem" id="tCollectionGroups" class="expanded" init="0">
+             <%= link_to translate('LIST_COLLECTION_GROUPS'), :controller => '/admin/collection_group', :action => 'list' %>
+              <%= link_to translate('ADD_A_NEW_COLLECTION_GROUP'), :controller => '/admin/collection_group', :action => 'new' %>
+            </div>
+          </div>  
+          <div id="plus"></div>
+          <div id="bProviders" class="navigation"><%= link_to translate('PROVIDERS'), :controller => '/admin/provider', :action => 'index' %>
+            <div name="menuItem" id="tProviders" class="expanded" init="0">
+             <%= link_to translate('LIST_PROVIDERS'), :controller => '/admin/provider', :action => 'list' %>
+              <%= link_to translate('ADD_A_NEW_PROVIDER'), :controller => '/admin/provider', :action => 'new' %>
+            </div>
+          </div>        
+          <div id="plus"></div>
+          <div id="bCoverages" class="navigation"><%= link_to translate('COVERAGES'), :controller => '/admin/coverage', :action => 'index' %>
+            <div name="menuItem" id="tCoverages" class="expanded" init="0">
+             <%= link_to translate('LIST_COVERAGES'), :controller => '/admin/coverage', :action => 'list' %>
+              <%= link_to translate('ADD_A_NEW_COVERAGE'), :controller => '/admin/coverage', :action => 'new' %>
+            </div>
+          </div>        
+           <div id="plus"></div>
+          <div id="bUsers" class="navigation"><%= link_to translate('USERS'), :controller => '/admin/user', :action => 'index' %>
+            <div name="menuItem" id="tUsers" class="expanded" init="0">
+               <%= link_to translate('LIST_USERS'), :controller => '/admin/user', :action => 'list' %>
+              <%= link_to translate('ADD_A_NEW_USER'), :controller => '/admin/user', :action => 'new' %>
+            </div>
+          </div>               
+         </div><!--end t_nav-->
+      </div><!--close xboxcontent -->
+      <b class="xbottom"><b class="xb4"></b><b class="xb1"></b></b>
+    </div><!--end xsnazzysearch-->
+  </div><!--close browse -->
+</div><!-- end left column -->
+
+
+ 

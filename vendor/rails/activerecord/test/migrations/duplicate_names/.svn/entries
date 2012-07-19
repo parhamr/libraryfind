@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activerecord/test/migrations/duplicate_names
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+20080507052938_chunky.rb
+file
+
+
+
+
+2009-06-25T15:31:58.000000Z
+2bf7d50e016b9b8eca803a01dc817a04
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+20080507053028_chunky.rb
+file
+
+
+
+
+2009-06-25T15:31:58.000000Z
+2bf7d50e016b9b8eca803a01dc817a04
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

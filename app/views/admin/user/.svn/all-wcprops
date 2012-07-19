@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/metasearch/!svn/ver/1304/trunk/app/views/admin/user
+END
+list.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/app/views/admin/user/list.rhtml
+END
+show.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/app/views/admin/user/show.rhtml
+END
+_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/app/views/admin/user/_form.rhtml
+END
+edit.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/app/views/admin/user/edit.rhtml
+END
+new.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/metasearch/!svn/ver/1304/trunk/app/views/admin/user/new.rhtml
+END

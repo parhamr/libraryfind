@@ -1,0 +1,54 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/config
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+connection.rb
+file
+
+
+
+
+2009-06-25T15:40:57.000000Z
+da7b0bc5c110b380860e9f78cd6a899d
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+database.yml
+file
+
+
+
+
+2009-06-25T15:40:58.000000Z
+e3d8e747588f9344afa594a3fbeb7459
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+

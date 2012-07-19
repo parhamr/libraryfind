@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails
+END
+config.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/config.yml.example
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/Rakefile
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/routes.rb
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/init.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/CHANGELOG
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/README
+END
+LICENSE-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/LICENSE-2.0.txt
+END

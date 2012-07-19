@@ -1,0 +1,234 @@
+EN:
+  LIBRARY_FIND_TITLE: "LibraryFind: "
+  LIBRARY_FIND_HEADER: "Library Find "
+  SEARCH: "Search "
+  OREGON_STATE_UNIVERSITY: "Oregon State University"
+  LIBRARIES: "Libraries"
+  MY_ACCOUNT: "My Account"
+  VALLEY_LIBRARY: "Valley Library"
+  GUIN_LIBRARY: "Guin Library"
+  CASCADES_LIBRARY: "OSU Cascades Library"
+  ECAMPUS_LIBRARY: "Ecampus Library"
+  OSU_ARCHIVES: "ENLISH OSU Archives"
+  SPECIAL_COLLECTIONS: "Special Collections"
+  INTERLIBRARY_LOAN: Interlibrary Loan
+  FULL_ABSTRACT: Full Abstract
+  CITATION: Citation
+  SAVE_THIS_ITEM: Save This Item
+  REMOVE_FROM_SAVED_ITEMS: Remove from Saved Items
+  MORE_FROM: " \"more from '#{args[0].to_s}' \""
+  #list.rhtml
+  SAVED_ITEMS_HEADER: My Saved Items
+  SAVED_ITEMS_NOTICE: "NOTE This list of saved items will only remain active for the current browser session.  A future implementation of LibraryFind will allow you to login and store results."
+  #_search_box.rhtml
+  MY_SAVED_ITEMS: My Saved Items
+  LOGIN_PROXY: Login
+  ADMIN: Admin
+  LOG_OUT: Log Out
+  HELP: Help
+  REPORT_A_PROBLEM: Report a Problem
+  PROBLEM_REPORT: Problem report for LibraryFind
+  #_simple_search.rhtml
+  FIND_IT: Find It!
+  ADVANCED_SEARCH: Advanced Search
+  #ADMIN ACTIONS
+  SAVE: Save
+  EDIT: Edit
+  DESTROY: Destroy
+  ARE_YOU_SURE: "Are You Sure?"
+  NEXT_PAGE: Next page
+  PREVIOUS_PAGE: Previous page
+  ADMINISTRATION: Administration
+  ADD_A_NEW_COLLECTION: Add a New Collection
+  COLLECTIONS: Collections
+  COLLECTION_GROUPS: Collection Groups
+  COVERAGES: Coverages
+  PROVIDERS: Providers
+  USERS: Users
+  ADMIN_HOME: Admin Home
+  LIST_COLLECTIONS: List Collections
+  ADD_A_NEW_COLLECTION: Add a New Collection
+  LIST_COLLECTION_GROUPS: List Collection Groups
+  ADD_A_NEW_COLLECTION_GROUP: Add a New Collection Group
+  LIST_COVERAGES: List Coverages
+  ADD_A_NEW_COVERAGE: Add a New Coverage
+  LIST_PROVIDERS: List Providers
+  ADD_A_NEW_PROVIDER: Add a New Provider
+  LIST_USERS: List Users
+  ADD_A_NEW_USER: Add a New User
+  COLLECTIONS_IN_THIS_GROUP: Collections in this Group
+  #details _article_citation.rhtml
+  AUTHOR_LABEL: "Author:"
+  ARTICLE_TITLE_LABEL: "Article Title:"
+  JOURNAL_TITLE_LABEL: "Journal Title:"
+  VOLUME_LABEL: "Volume:"
+  ISSUE_LABEL: "Issue:"
+  PAGES_LABEL: "Page(s):"
+  DATE_LABEL: "Date:"
+  TITLE_LABEL: "Title:"
+  PUBLISHER_LABEL: "Publisher:"
+  ISBN_LABEL: "ISBN:"
+  URL_LABEL: "URL:"
+  RAW_CITATION_LABEL: "Unformatted Citation:"
+  IMAGE_URL: "Image URL"
+  RESULTS_FROM_LIBRARYFIND: The following items are selected search results from LibraryFind
+  ITEM_SAVED: Item Saved
+  #application.rb
+  PLEASE_LOG_IN: Please log in
+  AUTHORIZATION_REQUIRED: Authorization required to view this page.
+FR:
+  LIBRARY_FIND_TITLE: "FRENCH LibraryFind: "
+  LIBRARY_FIND_HEADER: "FRENCH Library Find "
+  SEARCH: "FRENCH Search "
+  OREGON_STATE_UNIVERSITY: "FRENCH Oregon State University"
+  LIBRARIES: "FRENCH Libraries"
+  MY_ACCOUNT: "FRENCH My Account"
+  VALLEY_LIBRARY: "FRENCH Valley Library"
+  GUIN_LIBRARY: "FRENCH Guin Library"
+  CASCADES_LIBRARY: "FRENCH OSU Cascades Library"
+  ECAMPUS_LIBRARY: "FRENCH Ecampus Library"
+  OSU_ARCHIVES: "FRENCH OSU Archives"
+  SPECIAL_COLLECTIONS: "FRENCH Special Collections"
+  INTERLIBRARY_LOAN: FRENCH Interlibrary Loan
+  FULL_ABSTRACT: FRENCH Full Abstract
+  CITATION: FRENCH Citation
+  SAVE_THIS_ITEM: FRENCH Save This Item
+  REMOVE_FROM_SAVED_ITEMS: FRENCH Remove from Saved Items
+  MORE_FROM: " \"FRENCH more from '#{args[0].to_s}' \""
+  #list.rhtml
+  SAVED_ITEMS_HEADER: FRENCH My Saved Items
+  SAVED_ITEMS_NOTICE: "FRENCH NOTE This list of saved items will only remain active for the current browser session.  A future implementation of LibraryFind will allow you to login and store results."
+  #_search_box.rhtml
+  MY_SAVED_ITEMS: FRENCH My Saved Items
+  LOGIN_PROXY: FRENCH Login
+  ADMIN: FRENCH Admin
+  LOG_OUT: FRENCH Log Out
+  HELP: FRENCH Help
+  REPORT_A_PROBLEM: FRENCH Report a Problem
+  PROBLEM_REPORT: FRENCH Problem report for LibraryFind
+  #_simple_search.rhtml
+  FIND_IT: FRENCH Find It!
+  ADVANCED_SEARCH: FRENCH Advanced Search
+  #ADMIN ACTIONS
+  SAVE: FRENCH Save
+  EDIT: FRENCH Edit
+  DESTROY: FRENCH Destroy
+  ARE_YOU_SURE: "FRENCH Are You Sure?"
+  NEXT_PAGE: FRENCH Next page
+  PREVIOUS_PAGE: FRENCH Previous page
+  ADMINISTRATION: FRENCH Administration
+  ADD_A_NEW_COLLECTION: FRENCH Add a New Collection
+  COLLECTIONS: FRENCH Collections
+  COLLECTION_GROUPS: FRENCH Collection Groups
+  COVERAGES: FRENCH Coverages
+  PROVIDERS: FRENCH Providers
+  USERS: FRENCH Users
+  ADMIN_HOME: FRENCH Admin Home
+  LIST_COLLECTIONS: FRENCH List Collections
+  ADD_A_NEW_COLLECTION: FRENCH Add a New Collection
+  LIST_COLLECTION_GROUPS: FRENCH List Collection Groups
+  ADD_A_NEW_COLLECTION_GROUP: FRENCH Add a New Collection Group
+  LIST_COVERAGES: FRENCH List Coverages
+  ADD_A_NEW_COVERAGE: FRENCH Add a New Coverage
+  LIST_PROVIDERS: FRENCH List Providers
+  ADD_A_NEW_PROVIDER: FRENCH Add a New Provider
+  LIST_USERS: FRENCH List Users
+  ADD_A_NEW_USER: FRENCH Add a New User
+  COLLECTIONS_IN_THIS_GROUP: FRENCH Collections in this Group
+  #details _article_citation.rhtml
+  AUTHOR_LABEL: "FRENCH Author:"
+  ARTICLE_TITLE_LABEL: "FRENCH Article Title:"
+  JOURNAL_TITLE_LABEL: "FRENCH Journal Title:"
+  VOLUME_LABEL: "FRENCH Volume:"
+  ISSUE_LABEL: "FRENCH Issue:"
+  PAGES_LABEL: "FRENCH Page(s):"
+  DATE_LABEL: "FRENCH Date:"
+  TITLE_LABEL: "FRENCH Title:"
+  PUBLISHER_LABEL: "FRENCH Publisher:"
+  ISBN_LABEL:  "FRENCH ISBN:"
+  URL_LABEL: "FRENCH URL:"
+  RAW_CITATION: "FRENCH Unformatted Citation:"
+  IMAGE_URL: "FRENCH Image URL"
+  RESULTS_FROM_LIBRARYFIND: FRENCH The following items are selected search results from LibraryFind
+  ITEM_SAVED: FRENCH Item Saved
+  #application.rb
+  PLEASE_LOG_IN: FRENCH Please log in
+  AUTHORIZATION_REQUIRED: FRENCH Authorization required to view this page.
+ES:
+  LIBRARY_FIND_TITLE: "SPANISH LibraryFind: "
+  LIBRARY_FIND_HEADER: "SPANISH Library Find "
+  SEARCH: "SPANISH Search "
+  OREGON_STATE_UNIVERSITY: "SPANISH Oregon State University"
+  LIBRARIES: "SPANISH Libraries"
+  MY_ACCOUNT: "SPANISH My Account"
+  VALLEY_LIBRARY: "SPANISH Valley Library"
+  GUIN_LIBRARY: "SPANISH Guin Library"
+  CASCADES_LIBRARY: "SPANISH OSU Cascades Library"
+  ECAMPUS_LIBRARY: "SPANISH Ecampus Library"
+  OSU_ARCHIVES: "SPANISH OSU Archives"
+  SPECIAL_COLLECTIONS: "SPANISH Special Collections"
+  INTERLIBRARY_LOAN: SPANISH Interlibrary Loan
+  FULL_ABSTRACT: SPANISH Full Abstract
+  CITATION: SPANISH Citation
+  SAVE_THIS_ITEM: SPANISH Save This Item
+  REMOVE_FROM_SAVED_ITEMS: SPANISH Remove from Saved Items
+  MORE_FROM: " \"SPANISH more from '#{args[0].to_s}' \""
+  #list.rhtml
+  SAVED_ITEMS_HEADER: SPANISH My Saved Items
+  SAVED_ITEMS_NOTICE: "SPANISH NOTE This list of saved items will only remain active for the current browser session.  A future implementation of LibraryFind will allow you to login and store results."
+  #_search_box.rhtml
+  MY_SAVED_ITEMS: SPANISH My Saved Items
+  LOGIN_PROXY: SPANISH Login
+  ADMIN: SPANISH Admin
+  LOG_OUT: SPANISH Log Out
+  HELP: SPANISH Help
+  REPORT_A_PROBLEM: SPANISH Report a Problem
+  PROBLEM_REPORT: SPANISH Problem report for LibraryFind
+  #_simple_search.rhtml
+  FIND_IT: SPANISH Find It!
+  ADVANCED_SEARCH: SPANISH Advanced Search
+  #ADMIN ACTIONS
+  SAVE: SPANISH Save
+  EDIT: SPANISH Edit
+  DESTROY: SPANISH Destroy
+  ARE_YOU_SURE: "SPANISH Are You Sure?"
+  NEXT_PAGE: SPANISH Next page
+  PREVIOUS_PAGE: SPANISH Previous page
+  ADMINISTRATION: SPANISH Administration
+  ADD_A_NEW_COLLECTION: SPANISH Add a New Collection
+  COLLECTIONS: SPANISH Collections
+  COLLECTION_GROUPS: SPANISH Collection Groups
+  COVERAGES: SPANISH Coverages
+  PROVIDERS: SPANISH Providers
+  USERS: SPANISH Users
+  ADMIN_HOME: SPANISH Admin Home
+  LIST_COLLECTIONS: SPANISH List Collections
+  ADD_A_NEW_COLLECTION: SPANISH Add a New Collection
+  LIST_COLLECTION_GROUPS: SPANISH List Collection Groups
+  ADD_A_NEW_COLLECTION_GROUP: SPANISH Add a New Collection Group
+  LIST_COVERAGES: SPANISH List Coverages
+  ADD_A_NEW_COVERAGE: SPANISH Add a New Coverage
+  LIST_PROVIDERS: SPANISH List Providers
+  ADD_A_NEW_PROVIDER: SPANISH Add a New Provider
+  LIST_USERS: SPANISH List Users
+  ADD_A_NEW_USER: SPANISH Add a New User
+  COLLECTIONS_IN_THIS_GROUP: SPANISH Collections in this Group
+  #details _article_citation.rhtml
+  AUTHOR_LABEL: "SPANISH Author:"
+  ARTICLE_TITLE_LABEL: "SPANISH Article Title:"
+  JOURNAL_TITLE_LABEL: "SPANISH Journal Title:"
+  VOLUME_LABEL: "SPANISH Volume:"
+  ISSUE_LABEL: "SPANISH Issue:"
+  PAGES_LABEL: "SPANISH Page(s):"
+  DATE_LABEL: "SPANISH Date:"
+  TITLE_LABEL: "SPANISH Title:"
+  PUBLISHER_LABEL: "SPANISH Publisher:"
+  ISBN_LABEL: "SPANISH ISBN: "
+  URL_LABEL: "SPANISH URL:"
+  RAW_CITATION_LABEL: "SPANISH Unformatted Citation:"
+  IMAGE_URL: "SPANISH Image URL"
+  RESULTS_FROM_LIBRARYFIND: SPANISH The following items are selected search results from LibraryFind
+  ITEM_SAVED: SPANISH Item Saved
+  #application.rb
+  PLEASE_LOG_IN: SPANISH Please log in
+  AUTHORIZATION_REQUIRED: SPANISH Authorization required to view this page.

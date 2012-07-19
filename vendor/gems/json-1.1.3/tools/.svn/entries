@@ -1,0 +1,54 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/json-1.1.3/tools
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+fuzz.rb
+file
+
+
+
+
+2009-06-25T15:41:45.000000Z
+9de81c5334509c41023a7d44af65409f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+server.rb
+file
+
+
+
+
+2009-06-25T15:41:45.000000Z
+7e20fc91903e17afcbd5a68b91ea9a24
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+

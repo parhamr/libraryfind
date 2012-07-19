@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin
+END
+user_lang.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin/user_lang.yml
+END
+collection_group_lang.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin/collection_group_lang.yml
+END
+dashboard_lang.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin/dashboard_lang.yml
+END
+provider_lang.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin/provider_lang.yml
+END
+collection_lang.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin/collection_lang.yml
+END
+coverage_lang.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/metasearch/!svn/ver/1304/trunk/app/languages/admin/coverage_lang.yml
+END

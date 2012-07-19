@@ -1,0 +1,67 @@
+<%_from=display_source(generic)%>
+<div id="result-row">
+  <% if generic.material_type!=""%>
+    [<%=generic.material_type%>]&nbsp;&nbsp;
+  <%end%>
+  <span id="ptitle">
+    <%if generic.direct_url != "" %>
+      <a href=<%=h(generic.direct_url)%> target="_blank">
+        <%=generic.ptitle%>
+      </a>
+    <%else %>
+      <%=generic.ptitle%>
+    <%end %>
+  </span>
+</div>
+<% if generic.author != '' and generic.subject!='' %>
+<div id="result-row">
+  <% if generic.author!=''%>
+    <%=generic.author%> 
+    <%if generic.subject!=''%>
+      | <%=generic.subject%> 
+    <%end%>     
+  <%else%>
+    <%if generic.subject!=''%>
+      <%=generic.subject%> 
+    <%end%>   
+  <%end%>   
+</div>
+<%end%>
+<div id="result-row">
+  <%if generic.date!='' and generic.date!='00000000'%>
+    <%=display_date(generic)%>  &#160;
+  <%end%>
+    <span id="source"">   
+      <%=_from%>
+    </span>
+</div>
+<%=render(:partial => "/record/details/generic_citation", :object => generic) %>
+<div id="result-row" class='vr' >
+  <%= link_to_function translate('CITATION'), "Element.toggle('citation_"+generic.id.to_s+"')"%>&#160;
+  <span id="add_to_cart_<%=generic.id%>"> 
+         <%if session[:cart]==nil ||  !session[:cart].include?(generic.id) %>
+         <%=link_to_remote translate('SAVE_THIS_ITEM'), {
+                                              :update => 'add_to_cart_%s' % generic.id,
+                                              :url => { :action => 'add', :controller=>'/cart'},
+                                              :with => "'id=%s'" % generic.id
+                                              }%>
+        <% else 
+             if @cart_page!=nil and !@cart_page.empty? %>
+              <%=link_to_remote translate('REMOVE_FROM_SAVED_ITEMS'), {
+                                              :update => 'row_%s' % generic.id,
+                                              :url => { :action => 'remove', :controller=>'/cart'},
+                                              :with => "'id=%s'" % generic.id,
+                                              :loading => "scroll(0,0);Element.show('waitimage')",
+                                              :complete => "Element.hide('waitimage');"
+                                              }%>
+          <%end%>
+        <%end%>
+     
+      </span>&#160;
+ <% if generic.vendor_url!=nil and generic.vendor_url!='' %>
+         <a href=<%=h(generic.vendor_url)%> target="_blank">
+                  <%=translate('MORE_FROM',[escape_quote(generic.vendor_name)])%>
+                </a>&#160;
+  <%end%>           
+   
+</div>  

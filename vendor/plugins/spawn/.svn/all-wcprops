@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/55/spawn
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/spawn/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/35/spawn/.gitignore
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/20/spawn/init.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/19/spawn/CHANGELOG
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/52/spawn/README
+END

@@ -1,0 +1,43 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activesupport/lib/active_support/vendor/tzinfo-0.3.12
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+tzinfo
+dir
+
+tzinfo.rb
+file
+
+
+
+
+2009-06-25T15:30:10.000000Z
+8e4c220c0040b0c0f5213cc053decd0a
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

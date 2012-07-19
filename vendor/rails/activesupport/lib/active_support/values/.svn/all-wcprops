@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/values
+END
+unicode_tables.dat
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/values/unicode_tables.dat
+END
+time_zone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activesupport/lib/active_support/values/time_zone.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/55/spawn/lib
+END
+patches.rb
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/55/spawn/lib/patches.rb
+END
+spawn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/spawn/lib/spawn.rb
+END

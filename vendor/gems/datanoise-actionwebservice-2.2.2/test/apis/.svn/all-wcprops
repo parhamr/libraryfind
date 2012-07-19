@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/apis
+END
+auto_load_api.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/apis/auto_load_api.rb
+END
+broken_auto_load_api.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/test/apis/broken_auto_load_api.rb
+END

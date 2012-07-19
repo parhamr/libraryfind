@@ -1,0 +1,43 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-06-25T15:13:07.645154Z
+1318
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+ropenurl_custom
+dir
+
+builder-2.0.0
+dir
+
+plugins
+dir
+
+rails
+dir
+
+gems
+dir
+

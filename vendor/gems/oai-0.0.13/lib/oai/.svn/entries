@@ -1,0 +1,122 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/gems/oai-0.0.13/lib/oai
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+client.rb
+file
+
+
+
+
+2009-06-25T15:41:34.000000Z
+ed06a52fb95d4215f8090e78584a1089
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+exception.rb
+file
+
+
+
+
+2009-06-25T15:41:34.000000Z
+dfba80b2027465ca8f226ee9051e3e32
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+harvester
+dir
+
+harvester.rb
+file
+
+
+
+
+2009-06-25T15:41:34.000000Z
+bd703bd3dd68ccdbfc54783c4338cf51
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+xpath.rb
+file
+
+
+
+
+2009-06-25T15:41:34.000000Z
+4d054329428f47319d04127e405f9cb8
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+provider
+dir
+
+provider.rb
+file
+
+
+
+
+2009-06-25T15:41:34.000000Z
+78c0cfa0ac4345cef1d30178e186370f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+has-props
+
+set.rb
+file
+
+
+
+
+2009-06-25T15:41:35.000000Z
+fe60ed0553d20bc06013e524e376a281
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+client
+dir
+
+constants.rb
+file
+
+
+
+
+2009-06-25T15:41:35.000000Z
+beafcd26a4e7cc0f1c82fc1a93c49036
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

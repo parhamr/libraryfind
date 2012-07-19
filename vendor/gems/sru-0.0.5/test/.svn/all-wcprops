@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/sru-0.0.5/test
+END
+tc_libxml_client_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/sru-0.0.5/test/tc_libxml_client_test.rb
+END
+tc_rexml_client_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/sru-0.0.5/test/tc_rexml_client_test.rb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/railties/lib/rails/plugin
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+locator.rb
+file
+
+
+
+
+2009-06-25T15:39:01.000000Z
+f31dfed8a08ee9b362e1317393da4944
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+loader.rb
+file
+
+
+
+
+2009-06-25T15:39:01.000000Z
+7a306a8bc6ce80a0c8ae5197c5af5326
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

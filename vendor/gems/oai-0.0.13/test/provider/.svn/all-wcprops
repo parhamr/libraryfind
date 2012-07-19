@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider
+END
+tc_resumption_tokens.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/tc_resumption_tokens.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/test_helper.rb
+END
+tc_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/tc_provider.rb
+END
+models.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/models.rb
+END
+tc_exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/tc_exceptions.rb
+END
+tc_simple_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/tc_simple_provider.rb
+END
+tc_functional_tokens.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/provider/tc_functional_tokens.rb
+END

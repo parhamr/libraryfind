@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/database
+END
+ar_migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/database/ar_migration.rb
+END
+oaipmhtest
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/database/oaipmhtest
+END

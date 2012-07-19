@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/ropenurl-0.0.2/lib/ropenurl
+END
+context_object_entity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/ropenurl-0.0.2/lib/ropenurl/context_object_entity.rb
+END
+context_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/ropenurl-0.0.2/lib/ropenurl/context_object.rb
+END
+transport.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/ropenurl-0.0.2/lib/ropenurl/transport.rb
+END

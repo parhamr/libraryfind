@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/helpers
+END
+providers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/helpers/providers.rb
+END
+set_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/helpers/set_provider.rb
+END

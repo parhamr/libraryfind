@@ -1,0 +1,76 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/builder-2.0.0
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2007-01-31T04:12:07.300183Z
+728
+dchud
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2009-06-25T15:24:49.000000Z
+846fa758098ab55b1615e2187a6681fb
+2007-01-31T04:12:07.300183Z
+728
+dchud
+
+doc
+dir
+
+lib
+dir
+
+scripts
+dir
+
+CHANGES
+file
+
+
+
+
+2009-06-25T15:24:49.000000Z
+47feac493c02d83b6ef489eb0eafdee6
+2007-01-31T04:12:07.300183Z
+728
+dchud
+
+README
+file
+
+
+
+
+2009-06-25T15:24:49.000000Z
+9768e1754778d9a5f63b16143b6b3c8e
+2007-01-31T04:12:07.300183Z
+728
+dchud
+

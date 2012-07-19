@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous
+END
+builder.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/builder.js
+END
+effects.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/effects.js
+END
+unittest.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/unittest.js
+END
+scriptaculous.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/scriptaculous.js
+END
+dragdrop.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/dragdrop.js
+END
+slider.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/slider.js
+END
+controls.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/metasearch/!svn/ver/1304/trunk/vendor/plugins/selenium-on-rails/selenium-core/lib/scriptaculous/controls.js
+END

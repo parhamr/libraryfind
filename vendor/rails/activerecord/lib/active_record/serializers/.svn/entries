@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activerecord/lib/active_record/serializers
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+json_serializer.rb
+file
+
+
+
+
+2009-06-25T15:32:41.000000Z
+b184864dc2f3444ed87a63e02d199d54
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+xml_serializer.rb
+file
+
+
+
+
+2009-06-25T15:32:42.000000Z
+4f6ede64f683dea69af0fdc617179816
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

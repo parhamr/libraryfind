@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/generators/web_service/templates
+END
+api_definition.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/generators/web_service/templates/api_definition.rb
+END
+functional_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/generators/web_service/templates/functional_test.rb
+END
+controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/datanoise-actionwebservice-2.2.2/generators/web_service/templates/controller.rb
+END

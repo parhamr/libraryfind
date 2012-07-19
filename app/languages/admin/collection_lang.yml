@@ -1,0 +1,235 @@
+EN:
+  #Inline help
+  NAME_DESCRIPTION: help for collection name here
+  NAME_EXAMPLE: e.g. example collection name here
+  ALT_NAME_DESCRIPTION: help for collection alt name here
+  ALT_NAME_EXAMPLE: e.g. example collection alt name here
+  CONN_TYPE_DESCRIPTION: help for collection connection type
+  CONN_TYPE_EXAMPLE: e.g. for collection connection type
+  ADV_KEYWORD_SEARCHING_DESCRIPTION: help for advanced keyword searching
+  HOST_DESCRIPTION: help for collection host here
+  HOST_EXAMPLE: e.g. example collection host here
+  USER_DESCRIPTION: help for collection user here
+  USER_EXAMPLE: e.g. example collection user here
+  PASSWORD_DESCRIPTION: help for collection password here
+  PASSWORD_EXAMPLE: e.g. example collection password here
+  RECORD_SCHEMA_DESCRIPTION: help for collection record_schema here
+  RECORD_SCHEMA_EXAMPLE: e.g. example collection record_schema here
+  DEFINITION_DESCRIPTION: help for collection Definition here
+  DEFINITION_EXAMPLE: e.g. example collection Definition here
+  URL_DESCRIPTION: help for collection url here
+  URL_EXAMPLE: e.g. example collection url here
+  MATERIAL_TYPE_DESCRIPTION: help for collection mat_type here
+  MATERIAL_TYPE_EXAMPLE: e.g. example collection mat_type here
+  VIRTUAL_DESCRIPTION: help for collection virtual here
+  VIRTUAL_EXAMPLE: e.g. example collection virtual here
+  VENDOR_URL_DESCRIPION: help for collection vendor_url here
+  VENDOR_URL_EXAMPLE: e.g. example collection vendor_url here
+  BIB_ATTR_DESCRIPTION: help for collection bib_attr here
+  BIB_ATTR_EXAMPLE: e.g. example collection bib_attr here
+  PROXY_DESCRIPTION: help for collection proxy here
+  PROXY_EXAMPLE: e.g. example collection proxy here
+  COLLECTION_PARENT: Is Toplevel OAI Collection
+  COLLECTION_PRIVATE: Must authenticate to show in list
+  #labels
+  NAME_LABEL: "Name:"
+  ALTERNATE_NAME_LABEL: "Alternate Name:"
+  CONNECTION_TYPE_LABEL: "Connection Type:"
+  Z3950_LABEL: "Z39.50"
+  OAIPMH_LABEL: "OAI-PMH"
+  OPEN_SEARCH_LABEL: "Open Search"
+  SRU_LABEL: "SRU"
+  CONNECTOR_LABEL: "Custom Connector"
+  ADVANCED_KEYWORD_SEARCHING_LABEL: "Advanced Keyword Searching"
+  HOST_LABEL: "Host:"
+  USER_LABEL: "User:"
+  PASSWORD_LABEL: "Password:"
+  RECORD_SCHEMA_LABEL: "Record Schema:"
+  DEFINITION_LABEL: "Definition:"
+  URL_LABEL: "URL:"
+  MATERIAL_TYPE_LABEL: "Material Type:"
+  ARTICLE_LABEL: Article
+  BOOK_LABEL: Book
+  FINDING_AID_LABEL: Finding Aid
+  IMAGE_LABEL: Image
+  NEWSPAPER_LABEL: Newspaper
+  INTERNET_LABEL: Internet
+  VIRTUAL_LABEL: "Virtual:"
+  VENDOR_URL_LABEL: "Vendor URL:"
+  BIB1_ATTRIBUTES_LABEL: "Bib-1 Attributes:"
+  USE_PROXY_LABEL: "Use Proxy:"
+  YES_LABEL: "Yes"
+  NO_LABEL: "No"
+  EDIT_COLLECTION: Edit Collection
+  COLLECTIONS_HEADER: Collections
+  TEST_CONNECTION: Test Connection
+  COLLECTION_HEADER: Collection
+  EDIT: Edit
+  DIAGNOSTIC_RESULTS: "Diagnostic Results:"
+  CONFIGURATION_INVALID: "Configuration appears to be invalid.  Please check you information and try again."
+  SUCCESS: " \"Success!  The test harvested: #{args[0].to_s} records.\""
+  ZERO_RECORDS: While no errors were reported, the test harvested zero records.  You may want to check your configuration information.
+  TOTAL_RESULTS_LABEL: " \"Total Results: #{args[0].to_s}\""
+  TITLE_LABEL: " \"Title: #{args[0].to_s}\""
+  ABSTRACT_LABEL: " \"Abstract: #{args[0].to_s}\""
+  SUCCESSFUL_SEARCH: Search was successful
+  NO_RESULTS: No results were returned.  Please confirm your configuration information.
+  ERROR_OCCURED: An Error has occurred.  Please confirm your configuration information.
+  COLLECTION_CREATED: 'Collection was successfully created.'
+  COLLECTION_UPDATED: 'Collection was successfully updated.'
+FR:
+  #Inline help
+  NAME_DESCRIPTION: FRENCH help for collection name here
+  NAME_EXAMPLE: FRENCH e.g. example collection name here
+  ALT_NAME_DESCRIPTION: FRENCH help for collection alt name here
+  ALT_NAME_EXAMPLE: FRENCH e.g. example collection alt name here
+  CONN_TYPE_DESCRIPTION: FRENCH help for collection connection type
+  CONN_TYPE_EXAMPLE: FRENCH e.g. for collection connection type
+  ADV_KEYWORD_SEARCHING_DESCRIPTION: FRENCH help for advanced keyword searching
+  HOST_DESCRIPTION: FRENCH help for collection host here
+  HOST_EXAMPLE: FRENCH e.g. example collection host here
+  USER_DESCRIPTION: FRENCH help for collection user here
+  USER_EXAMPLE: FRENCH e.g. example collection user here
+  PASSWORD_DESCRIPTION: FRENCH help for collection password here
+  PASSWORD_EXAMPLE: FRENCH e.g. example collection password here
+  RECORD_SCHEMA_DESCRIPTION: FRENCH help for collection record_schema here
+  RECORD_SCHEMA_EXAMPLE: FRENCH e.g. example collection record_schema here
+  DEFINITION_DESCRIPTION: FRENCH help for collection Definition here
+  DEFINITION_EXAMPLE: FRENCH e.g. example collection Definition here
+  URL_DESCRIPTION: FRENCH help for collection url here
+  URL_EXAMPLE: FRENCH e.g. example collection url here
+  MATERIAL_TYPE_DESCRIPTION: FRENCH help for collection mat_type here
+  MATERIAL_TYPE_EXAMPLE: FRENCH e.g. example collection mat_type here
+  VIRTUAL_DESCRIPTION: FRENCH help for collection virtual here
+  VIRTUAL_EXAMPLE: FRENCH e.g. example collection virtual here
+  VENDOR_URL_DESCRIPION: FRENCH help for collection vendor_url here
+  VENDOR_URL_EXAMPLE: FRENCH e.g. example collection vendor_url here
+  BIB_ATTR_DESCRIPTION: FRENCH help for collection bib_attr here
+  BIB_ATTR_EXAMPLE: FRENCH e.g. example collection bib_attr here
+  PROXY_DESCRIPTION: FRENCH help for collection proxy here
+  PROXY_EXAMPLE: FRENCH e.g. example collection proxy here
+  COLLECTION_PARENT: FRENCH Is TopLevel OAI Collection
+  COLLECTION_PRIVATE: FRENCH Must authenticate to show in list
+  #labels
+  NAME_LABEL: "FRENCH Name:"
+  ALTERNATE_NAME_LABEL: "FRENCH Alternate Name:"
+  CONNECTION_TYPE_LABEL: "FRENCH Connection Type:"
+  Z3950_LABEL: "FRENCH Z39.50"
+  OAIPMH_LABEL: "FRENCH OAI-PMH"
+  OPEN_SEARCH_LABEL: "FRENCH Open Search"
+  SRU_LABEL: "FRENCH SRU"
+  CONNECTOR_LABEL: "FRENCH Custom Connector"
+  ADVANCED_KEYWORD_SEARCHING_LABEL: "FRENCH Advanced Keyword Searching"
+  HOST_LABEL: "FRENCH Host:"
+  USER_LABEL: "FRENCH User:"
+  PASSWORD_LABEL: "FRENCH Password:"
+  RECORD_SCHEMA_LABEL: "FRENCH Record Schema:"
+  DEFINITION_LABEL: "FRENCH Definition:"
+  URL_LABEL: "FRENCH URL:"
+  MATERIAL_TYPE_LABEL: "FRENCH Material Type:"
+  ARTICLE_LABEL: FRENCH Article
+  BOOK_LABEL: FRENCH Book
+  FINDING_AID_LABEL: FRENCH Finding Aid
+  IMAGE_LABEL: FRENCH Image
+  NEWSPAPER_LABEL: FRENCH Newspaper
+  VIRTUAL_LABEL: "FRENCH Virtual:"
+  VENDOR_URL_LABEL: "FRENCH Vendor URL:"
+  BIB1_ATTRIBUTES_LABEL: "FRENCH Bib-1 Attributes:"
+  USE_PROXY_LABEL: "FRENCH Use Proxy:"
+  YES_LABEL: "FRENCH Yes"
+  NO_LABEL: "FRENCH No"
+  EDIT_COLLECTION: FRENCH Edit Collection
+  COLLECTIONS_HEADER: FRENCH Collections
+  TEST_CONNECTION: FRENCH Test Connection
+  COLLECTION_HEADER: FRENCH Collection
+  EDIT: FRENCH Edit
+  DIAGNOSTIC_RESULTS: "FRENCH Diagnostic Results:"
+  CONFIGURATION_INVALID: "FRENCH Configuration appears to be invalid.  Please check you information and try again."
+  SUCCESS: " \"FRENCH Success!  The test harvested: #{args[0].to_s} records.\""
+  ZERO_RECORDS: FRENCH While no errors were reported, the test harvested zero records.  You may want to check your configuration information.
+  TOTAL_RESULTS_LABEL: " \"FRENCH Total Results: #{args[0].to_s}\""
+  TITLE_LABEL: " \"FRENCH Title: #{args[0].to_s}\""
+  ABSTRACT_LABEL: " \"FRENCH Abstract: #{args[0].to_s}\""
+  SUCCESSFUL_SEARCH: FRENCH Search was successful
+  NO_RESULTS: FRENCH No results were returned.  Please confirm your configuration information.
+  ERROR_OCCURED: FRENCH An Error has occurred.  Please confirm your configuration information.
+  COLLECTION_CREATED: 'FRENCH Collection was successfully created.'
+  COLLECTION_UPDATED: 'FRENCH Collection was successfully updated.'
+ES:
+  #Inline help
+  NAME_DESCRIPTION: SPANISH help for collection name here
+  NAME_EXAMPLE: SPANISH e.g. example collection name here
+  ALT_NAME_DESCRIPTION: SPANISH help for collection alt name here
+  ALT_NAME_EXAMPLE: SPANISH e.g. example collection alt name here
+  CONN_TYPE_DESCRIPTION: SPANISH help for collection connection type
+  CONN_TYPE_EXAMPLE: SPANISH e.g. for collection connection type
+  ADV_KEYWORD_SEARCHING_DESCRIPTION: SPANISH help for advanced keyword searching
+  HOST_DESCRIPTION: SPANISH help for collection host here
+  HOST_EXAMPLE: SPANISH e.g. example collection host here
+  USER_DESCRIPTION: SPANISH help for collection user here
+  USER_EXAMPLE: SPANISH e.g. example collection user here
+  PASSWORD_DESCRIPTION: SPANISH help for collection password here
+  PASSWORD_EXAMPLE: SPANISH e.g. example collection password here
+  RECORD_SCHEMA_DESCRIPTION: SPANISH help for collection record_schema here
+  RECORD_SCHEMA_EXAMPLE: SPANISH e.g. example collection record_schema here
+  DEFINITION_DESCRIPTION: SPANISH help for collection Definition here
+  DEFINITION_EXAMPLE: SPANISH e.g. example collection Definition here
+  URL_DESCRIPTION: SPANISH help for collection url here
+  URL_EXAMPLE: SPANISH e.g. example collection url here
+  MATERIAL_TYPE_DESCRIPTION: SPANISH help for collection mat_type here
+  MATERIAL_TYPE_EXAMPLE: SPANISH e.g. example collection mat_type here
+  VIRTUAL_DESCRIPTION: SPANISH help for collection virtual here
+  VIRTUAL_EXAMPLE: SPANISH e.g. example collection virtual here
+  VENDOR_URL_DESCRIPION: SPANISH help for collection vendor_url here
+  VENDOR_URL_EXAMPLE: SPANISH e.g. example collection vendor_url here
+  BIB_ATTR_DESCRIPTION: SPANISH help for collection bib_attr here
+  BIB_ATTR_EXAMPLE: SPANISH e.g. example collection bib_attr here
+  PROXY_DESCRIPTION: SPANISH help for collection proxy here
+  PROXY_EXAMPLE: SPANISH e.g. example collection proxy here
+  COLLECTION_PARENT: SPANISH Is TopLevel OAI Collection
+  COLLECTION_PRIVATE: SPANISH Must authenticate before show in list
+  #labels
+  NAME_LABEL: "SPANISH Name:"
+  ALTERNATE_NAME_LABEL: "SPANISH Alternate Name:"
+  CONNECTION_TYPE_LABEL: "SPANISH Connection Type:"
+  Z3950_LABEL: "SPANISH Z39.50"
+  OAIPMH_LABEL: "SPANISH OAI-PMH"
+  OPEN_SEARCH_LABEL: "SPANISH Open Search"
+  SRU_LABEL: "SPANISH SRU"
+  CONNECTOR_LABEL: "SPANISH Custom Connector"
+  ADVANCED_KEYWORD_SEARCHING_LABEL: "SPANISH Advanced Keyword Searching"
+  HOST_LABEL: "SPANISH Host:"
+  USER_LABEL: "SPANISH User:"
+  PASSWORD_LABEL: "SPANISH Password:"
+  RECORD_SCHEMA_LABEL: "SPANISH Record Schema:"
+  DEFINITION_LABEL: "SPANISH Definition:"
+  URL_LABEL: "SPANISH URL:"
+  MATERIAL_TYPE_LABEL: "SPANISH Material Type:"
+  ARTICLE_LABEL: SPANISH Article
+  BOOK_LABEL: SPANISH Book
+  FINDING_AID_LABEL: SPANISH Finding Aid
+  IMAGE_LABEL: SPANISH Image
+  NEWSPAPER_LABEL: SPANISH Newspaper
+  VIRTUAL_LABEL: "SPANISH Virtual:"
+  VENDOR_URL_LABEL: "SPANISH Vendor URL:"
+  BIB1_ATTRIBUTES_LABEL: "SPANISH Bib-1 Attributes:"
+  USE_PROXY_LABEL: "SPANISH Use Proxy:"
+  YES_LABEL: "SPANISH Yes"
+  NO_LABEL: "SPANISH No"
+  EDIT_COLLECTION: SPANISH Edit Collection
+  COLLECTIONS_HEADER: SPANISH Collections
+  TEST_CONNECTION: SPANISH Test Connection
+  COLLECTION_HEADER: SPANISH Collection
+  EDIT: SPANISH Edit
+  DIAGNOSTIC_RESULTS: "SPANISH Diagnostic Results:"
+  CONFIGURATION_INVALID: "SPANISH Configuration appears to be invalid.  Please check you information and try again."
+  SUCCESS: " \"SPANISH Success!  The test harvested: #{args[0].to_s} records.\""
+  ZERO_RECORDS: SPANISH While no errors were reported, the test harvested zero records.  You may want to check your configuration information.
+  TOTAL_RESULTS_LABEL: " \"SPANISH Total Results: #{args[0].to_s}\""
+  TITLE_LABEL: " \"SPANISH Title: #{args[0].to_s}\""
+  ABSTRACT_LABEL: " \"SPANISH Abstract: #{args[0].to_s}\""
+  SUCCESSFUL_SEARCH: SPANISH Search was successful
+  NO_RESULTS: SPANISH No results were returned.  Please confirm your configuration information.
+  ERROR_OCCURED: SPANISH An Error has occurred.  Please confirm your configuration information.
+  COLLECTION_CREATED: 'SPANISH Collection was successfully created.'
+  COLLECTION_UPDATED: 'SPANISH Collection was successfully updated.'

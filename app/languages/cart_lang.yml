@@ -1,0 +1,30 @@
+EN:
+  #_navigation.rhtml
+  SAVED_ITEMS: Saved Items Actions
+  NEW_EMAIL: New Email
+  ENTER_EMAIL_ADDRESS: enter email address
+  EMAIL_SAVED_ITEMS: Email Saved Items
+  #list.rhtml
+  MY_SAVED_ITEMS: My Saved Items
+  SAVED_ITEMS_NOTICE: "NOTE: This list of saved items will only remain active for the current browser session.  A future implementation of LibraryFind will allow you to login and store results."
+  EMAIL_SENT: "Email message sent"
+FR:
+  #_navigation.rhtml
+  SAVED_ITEMS: FRENCH Saved Items Actions
+  NEW_EMAIL: FRENCH New Email
+  ENTER_EMAIL_ADDRESS: FRENCH enter email address
+  EMAIL_SAVED_ITEMS: FRENCH Email Saved Items
+  #list.rhtml
+  MY_SAVED_ITEMS: FRENCH My Saved Items
+  SAVED_ITEMS_NOTICE: "FRENCH NOTE: This list of saved items will only remain active for the current browser session.  A future implementation of LibraryFind will allow you to login and store results."
+  EMAIL_SENT: "FRENCH Email message sent"
+ES:
+  #_navigation.rhtml
+  SAVED_ITEMS: SPANISH Saved Items Actions
+  NEW_EMAIL: SPANISH New Email
+  ENTER_EMAIL_ADDRESS: SPANISH enter email address
+  EMAIL_SAVED_ITEMS: SPANISH Email Saved Items
+  #list.rhtml
+  MY_SAVED_ITEMS: SPANISH My Saved Items
+  SAVED_ITEMS_NOTICE: "SPANISH NOTE: This list of saved items will only remain active for the current browser session.  A future implementation of LibraryFind will allow you to login and store results."
+  EMAIL_SENT: "SPANISH Email message sent"

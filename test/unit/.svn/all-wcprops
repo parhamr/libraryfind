@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/metasearch/!svn/ver/1304/trunk/test/unit
+END
+record_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/record_test.rb
+END
+user_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/user_test.rb
+END
+hit_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/hit_test.rb
+END
+cached_record_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/cached_record_test.rb
+END
+collection_group_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/collection_group_test.rb
+END
+result_mailer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/result_mailer_test.rb
+END
+site_config_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/site_config_test.rb
+END
+collection_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/collection_test.rb
+END
+cached_search_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/metasearch/!svn/ver/1304/trunk/test/unit/cached_search_test.rb
+END

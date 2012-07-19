@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/metasearch/!svn/ver/1304/trunk/app/views/record/citation
+END
+_image_citation.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/metasearch/!svn/ver/1304/trunk/app/views/record/citation/_image_citation.rhtml
+END
+_article_citation.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/metasearch/!svn/ver/1304/trunk/app/views/record/citation/_article_citation.rhtml
+END
+_book_citation.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/metasearch/!svn/ver/1304/trunk/app/views/record/citation/_book_citation.rhtml
+END

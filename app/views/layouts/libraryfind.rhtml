@@ -1,0 +1,76 @@
+<html>
+<head>
+  <title><%=translate('LIBRARY_FIND_TITLE')%><%= controller.action_name %></title>
+  <%= stylesheet_link_tag 'look_and_feel' %>
+  <%= stylesheet_link_tag 'library_find' %>
+  <%= javascript_include_tag :defaults %>
+  <link rel="alternate stylesheet" type="text/css" href="/stylesheets/large.css" title="large" />
+  <link rel="alternate stylesheet" type="text/css" href="/stylesheets/medium.css" title="medium" />
+  <link rel="alternate stylesheet" type="text/css" href="/stylesheets/small.css" title="small" />            
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+  <% if @IsMobile != true  
+	# we mark it as true -- must reset it to 
+	# false if not
+	@IsMobile = true
+	_currUA = request.env['HTTP_USER_AGENT'].downcase
+        _agents = ['windows','macintosh','mac','linux','freebsd','solaris','bot','slurp','spider','crawl']
+        _agents.each do |ua|
+           if _currUA.index(ua) != nil
+		@IsMobile = false
+		break
+           end
+        end
+
+        if _currUA.index('iphone')!=nil or _currUA.index('windows ce') != nil
+	    @IsMobile = true;
+        end
+	if @IsMobile == true
+	 #at some point, we want to make this 
+	 #serverside
+    %>
+	<script language="javascript">
+	   window.location.href="/record/search?mobile=true";
+	</script>
+    <%
+	end
+     end
+  %>
+  <% if @IsMobile == true %>
+    <meta name = "viewport" 
+          content = "width = device-width, user-scalable = no">
+    <%= stylesheet_link_tag 'library_find_mobile.css' %>
+  <%end%>
+</head>
+<body>
+  <% @page_title || translate("SEARCH") %>
+<% if @IsMobile == true %>
+<div class='tabbarmin'>
+<% else %>
+<div class='tabbar'>
+<%end%>
+ <span id="logo"><h1>
+    <a href="http://libraryfind.org"><img alt="<%=translate('LIBRARY_FIND_HEADER')%>" src="http://blog.libraryfind.org/images/wordmarkMedium.png" /></a>
+       </h1></span>
+
+ <% if @IsMobile == true %>
+    </div>
+    <br />
+ <% end %>
+  
+ <%= render(:partial => "record/search_box")%>
+ </div> 
+  <div id="innerwrapper">
+    <%= @content_for_layout %>
+  </div> <!-- end innerwrapper -->
+
+  <script src="http://books.google.com/books?jscmd=viewapi&bibkeys=<%=@isbn_list%>&callback=ProcessGBSBookInfo"></script> 
+  <% if (defined?(OPENLIBRARY_COVERS)) %>
+  <!-- Send request to Open Library server -->
+  <script src="http://openlibrary.org/api/books?bibkeys=<%=@image_isbn_list%>&callback=processOLBooks"></script>
+  <% elsif (defined?(GOOGLE_COVERS)) %>
+  <script src="http://books.google.com/books?jscmd=viewapi&bibkeys=<%=@image_isbn_list%>&callback=addTheCover"></script>
+  <% end %>
+
+ 
+</body>
+</html>

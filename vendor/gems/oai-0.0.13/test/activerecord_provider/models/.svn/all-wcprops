@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/models
+END
+dc_set.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/models/dc_set.rb
+END
+oai_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/models/oai_token.rb
+END
+dc_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/models/dc_field.rb
+END

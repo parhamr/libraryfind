@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider
+END
+tc_simple_paging_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/tc_simple_paging_provider.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/test_helper.rb
+END
+tc_ar_sets_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/tc_ar_sets_provider.rb
+END
+tc_caching_paging_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/tc_caching_paging_provider.rb
+END
+tc_ar_provider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/metasearch/!svn/ver/1304/trunk/vendor/gems/oai-0.0.13/test/activerecord_provider/tc_ar_provider.rb
+END

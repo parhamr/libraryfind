@@ -1,0 +1,188 @@
+<div id="error"><%= error_messages_for 'collection' %></div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_name"><%=translate("NAME_LABEL")%></label><br/>
+    <small><%=translate("NAME_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :name %><br/>
+    <small><%=translate("NAME_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_alt_name"><%=translate("ALTERNATE_NAME_LABEL")%></label><br/>
+    <small><%=translate("ALT_NAME_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :alt_name %><br/>
+    <small><%=translate("ALT_NAME_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_conn_type"><%=translate("CONNECTION_TYPE_LABEL")%></label><br/>
+	<small><%=translate("CONN_TYPE_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+<%= radio_button "collection", "conn_type", 'z3950', :onclick=>"Element.show('advanced_keyword_searching')", :style=>"width:14px"%><span class="dot"><%=translate("Z3950_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "conn_type", 'oai', :onclick=>"Element.hide('advanced_keyword_searching')", :style=>"width:14px"%><span class="dot"><%=translate("OAIPMH_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "conn_type", 'opensearch', :onclick=>"Element.hide('advanced_keyword_searching')", :style=>"width:14px"%><span class="dot"><%=translate("OPEN_SEARCH_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "conn_type", 'sru', :onclick=>"Element.hide('advanced_keyword_searching')", :style=>"width:14px"%><span class="dot"><%=translate("SRU_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "conn_type", 'connector', :onclick=>"Element.hide('advanced_keyword_searching')", :style=>"width:14px"%><span class="dot"><%=translate("CONNECTOR_LABEL")%>&nbsp;&nbsp; </span>
+<br/>
+ <small><%=translate("CONN_TYPE_EXAMPLE")%></small>
+ </span>
+</div>
+<% _display = "display:none"
+    if @collection.conn_type == 'z3950'
+      _display="display:block"
+    end
+%> 
+<div id="advanced_keyword_searching" style="<%=_display%>">
+  <div id="form_field">
+	<span class="form_left">
+		<%= check_box "collection", "isword", :style=>"width:14px"%><span class="dot"><%=translate("ADVANCED_KEYWORD_SEARCHING_LABEL")%></span><br/>
+		<small><%=translate("ADV_KEYWORD_DESCRIPTION")%></small>
+	</span>
+  </div>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_host"><%=translate("HOST_LABEL")%></label><br/>
+    <small><%=translate("HOST_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :host %><br/>
+    <small><%=translate("HOST_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_user"><%=translate("USER_LABEL")%></label><br/>
+    <small><%=translate("USER_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :user %><br/>
+    <small><%=translate("USER_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_password"><%=translate("PASSWORD_LABEL")%></label><br/>
+    <small><%=translate("PASSWORD_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :pass %><br/>
+    <small><%=translate("PASSWORD_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_record_schema"><%=translate("RECORD_SCHEMA_LABEL")%></label><br/>
+    <small><%=translate("RECORD_SCHEMA_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :record_schema %><br/>
+    <small><%=translate("RECORD_SCHEMA_EXAMPLE")%></small>
+  </span>
+</div>	
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_definition"><%=translate("DEFINITION_LABEL")%></label><br/>
+    <small><%=translate("DEFINITION_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+      <%= form.text_area :definition, :rows=>3 %><br/>
+    <small><%=translate("DEFINITION_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_url"><%=translate("URL_LABEL")%></label><br/>
+    <small><%=translate("URL_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :url %><br/>
+    <small><%=translate("URL_EXAMPLE")%></small>
+  </span>
+</div>	
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_mat_type"><%=translate("MATERIAL_TYPE_LABEL")%></label><br/>
+    <small><%=translate("MATERIAL_TYPE_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= radio_button "collection", "mat_type",'Article', :style=>"width:14px" %><span class="dot"><%=translate("ARTICLE_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "mat_type",'Book', :style=>"width:14px"%><span class="dot"><%=translate("BOOK_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "mat_type", 'Finding Aid', :style=>"width:14px"%><span class="dot"><%=translate("FINDING_AID_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "mat_type", 'Image', :style=>"width:14px"%><span class="dot"><%=translate("IMAGE_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "mat_type", 'Newspaper', :style=>"width:14px"%><span class="dot"><%=translate("NEWSPAPER_LABEL")%>&nbsp;&nbsp; </span>
+<%= radio_button "collection", "mat_type", 'Internet', :style=>"width:14px"%><span class="dot"><%=translate("INTERNET_LABEL")%>&nbsp;&nbsp; </span>
+
+<br/>
+    <small><%=translate("MATERIAL_TYPE_EXAMPLE")%></small>
+  </span>
+</div>	
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_virtual"><%=translate("VIRTUAL_LABEL")%></label><br/>
+    <small><%=translate("VIRTUAL_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :virtual %><br/>
+    <small><%=translate("VIRTUAL_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_vendor_url"><%=translate("VENDOR_URL_LABEL")%></label><br/>
+    <small><%=translate("VENDOR_URL_DESCRIPION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :vendor_url %><br/>
+    <small><%=translate("VENDOR_URL_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_bib_attr"><%=translate("BIB1_ATTRIBUTES_LABEL")%></label><br/>
+    <small><%=translate("BIB_ATTR_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= form.text_field :bib_attr %><br/>
+    <small><%=translate("BIB_ATTR_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+  	<label for="collection_proxy"><%=translate("USE_PROXY_LABEL")%></label><br/>
+    <small><%=translate("PROXY_DESCRIPTION")%></small>
+  </span>
+  <span class="form_right">
+    <%= radio_button "collection", "proxy", '1', :style=>"width:14px" %><span class="dot"><%=translate("YES_LABEL")%>&nbsp;&nbsp; </span> 
+	<%= radio_button "collection", "proxy", '0', :style=>"width:14px" %><span class="dot"><%=translate("NO_LABEL")%>&nbsp;&nbsp; </span><br/>
+    <small><%=translate("PROXY_EXAMPLE")%></small>
+  </span>
+</div>
+<div id="form_field">
+  <span class="form_left">
+      <label for="collection_parent"><%=translate("COLLECTION_PARENT")%></label><br/>
+  </span>
+  <span class="form_right">
+     <%= radio_button "collection", "is_parent", '1', :style=>"width:14px" %><span class="dot"><%=translate("YES_LABEL")%>&nbsp;&nbsp; </span>
+     <%= radio_button "collection", "is_parent", '0', :style=>"width:14px" %><span class="dot"><%=translate("NO_LABEL") %>&nbsp;&nbsp;</span><br />
+  </span>
+</div>
+
+<div id="form_field">
+  <span class="form_left">
+     <label for="collection_private"><%=translate("COLLECTION_PRIVATE")%></label>
+     <br />
+  </span>     
+  <span class="form_right">
+     <%= radio_button "collection", "is_private", '1', :style=>"width:14px" %><span class="dot"><%=translate("YES_LABEL")%>&nbsp;&nbsp; </span>
+     <%= radio_button "collection", "is_private", '0', :style=>"width:14px" %><span class="dot"><%=translate("NO_LABEL") %>&nbsp;&nbsp;</span><br />
+  </span>
+</div>
+

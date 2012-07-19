@@ -1,0 +1,52 @@
+8
+
+dir
+1318
+https://svn.library.oregonstate.edu/repos/metasearch/trunk/vendor/rails/activesupport/lib/active_support/vendor/tzinfo-0.3.12/tzinfo/definitions/America/Argentina
+https://svn.library.oregonstate.edu/repos/metasearch
+
+
+
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+47513ff6-980e-0410-8145-d0b9899b931e
+
+Buenos_Aires.rb
+file
+
+
+
+
+2009-06-25T15:29:32.000000Z
+15a2942f66396ca97e772337c238598f
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+
+San_Juan.rb
+file
+
+
+
+
+2009-06-25T15:29:33.000000Z
+7721f6985388cdfa0a1390d46fd443d6
+2009-04-16T18:44:22.214698Z
+1301
+reeset
+

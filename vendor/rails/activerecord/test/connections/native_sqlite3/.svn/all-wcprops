@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activerecord/test/connections/native_sqlite3
+END
+in_memory_connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activerecord/test/connections/native_sqlite3/in_memory_connection.rb
+END
+connection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/metasearch/!svn/ver/1304/trunk/vendor/rails/activerecord/test/connections/native_sqlite3/connection.rb
+END

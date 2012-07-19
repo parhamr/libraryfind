@@ -1,0 +1,52 @@
+8
+
+dir
+55
+http://spawn.rubyforge.org/svn/spawn/lib
+http://spawn.rubyforge.org/svn
+
+
+
+2009-03-09T20:26:22.705767Z
+55
+tra
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2aabfe31-cc40-457c-aec7-21ad9ce7fb7d
+
+patches.rb
+file
+
+
+
+
+2009-06-25T15:43:32.000000Z
+2d8f36dacd210f088609bc6d61548d26
+2009-03-09T20:26:22.705767Z
+55
+tra
+
+spawn.rb
+file
+
+
+
+
+2009-06-25T15:43:32.000000Z
+96223cb632979c91095eab56acbb1fdf
+2009-03-09T20:26:03.614658Z
+53
+tra
+
